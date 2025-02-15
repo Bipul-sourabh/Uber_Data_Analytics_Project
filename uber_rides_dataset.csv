@@ -1,0 +1,1157 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
+25-02-2016 04:26,02-03-2016 00:32,Business,San Francisco,Los Angeles,45.15,Errand
+22-12-2016 07:30,28-03-2016 05:07,Personal,Chicago,Boston,41.7,Other
+16-07-2016 07:36,22-03-2016 19:11,Business,San Francisco,New York,36.51,Meeting
+13-12-2016 23:24,27-11-2016 09:12,Business,San Francisco,San Francisco,33.2,Meal
+21-06-2016 09:38,06-06-2016 05:12,Business,Boston,New York,10.99,Meal
+10-04-2016 06:27,16-11-2016 06:55,Business,New York,San Francisco,44.06,Meal
+13-12-2016 12:49,07-05-2016 10:24,Business,Chicago,Boston,19.68,Meal
+07-04-2016 14:57,18-05-2016 03:24,Personal,San Francisco,Los Angeles,12.86,Other
+18-06-2016 17:31,25-06-2016 07:33,Business,Los Angeles,Los Angeles,34.87,Customer Visit
+26-01-2016 18:03,05-12-2016 09:38,Personal,Chicago,Chicago,28.47,Customer Visit
+14-03-2016 01:38,06-09-2016 19:43,Business,San Francisco,New York,20.22,Meal
+22-09-2016 21:28,07-07-2016 20:09,Business,Chicago,San Francisco,17.74,Meal
+10-11-2016 12:51,22-01-2016 17:24,Business,Los Angeles,San Francisco,27.39,Meal
+22-02-2016 03:51,30-10-2016 06:33,Personal,San Francisco,Los Angeles,38.9,Customer Visit
+29-09-2016 23:30,26-08-2016 09:28,Personal,Chicago,Chicago,33.15,Other
+12-05-2016 04:22,16-10-2016 10:18,Personal,New York,San Francisco,47.25,Meal
+16-08-2016 16:21,28-05-2016 07:44,Business,Los Angeles,Chicago,30.48,Meeting
+08-07-2016 03:59,16-12-2016 23:42,Personal,Chicago,Chicago,30.27,Other
+17-02-2016 22:20,11-11-2016 14:19,Personal,New York,Chicago,43.5,Meal
+30-11-2016 06:21,27-11-2016 17:32,Personal,Chicago,Boston,33.55,Meeting
+04-08-2016 05:53,03-02-2016 19:31,Personal,New York,San Francisco,37.39,Other
+25-06-2016 05:33,06-08-2016 11:36,Personal,Los Angeles,Los Angeles,2.66,Meeting
+20-02-2016 06:19,02-10-2016 22:57,Business,Boston,New York,16.96,Customer Visit
+22-10-2016 12:49,11-04-2016 20:12,Business,San Francisco,San Francisco,2.26,Errand
+10-04-2016 14:15,16-09-2016 05:45,Business,New York,San Francisco,28.72,Errand
+10-08-2016 22:15,03-09-2016 04:53,Business,New York,New York,30.14,Other
+15-12-2016 15:57,19-09-2016 02:35,Personal,San Francisco,Boston,37.95,Meal
+06-06-2016 09:44,09-08-2016 00:25,Personal,Boston,San Francisco,25.06,Meeting
+15-03-2016 23:06,22-04-2016 07:55,Business,Los Angeles,Boston,38.74,Meeting
+09-11-2016 14:47,23-08-2016 19:37,Personal,San Francisco,Chicago,43.64,Customer Visit
+16-10-2016 15:30,10-08-2016 22:27,Personal,Boston,Los Angeles,34.06,Meal
+19-08-2016 13:08,06-09-2016 21:20,Business,San Francisco,New York,44.67,Meal
+27-05-2016 13:13,25-03-2016 08:03,Business,Los Angeles,Los Angeles,24.02,Errand
+21-03-2016 00:32,31-05-2016 00:36,Personal,Boston,New York,5.2,Meeting
+10-12-2016 22:29,03-04-2016 11:20,Personal,San Francisco,Chicago,11.14,Meeting
+01-05-2016 08:33,14-06-2016 00:50,Personal,San Francisco,Boston,20.21,Other
+22-01-2016 22:33,29-01-2016 04:55,Business,Chicago,San Francisco,47.4,Meal
+16-07-2016 14:41,30-03-2016 14:33,Personal,Los Angeles,San Francisco,39.8,Customer Visit
+05-10-2016 18:28,16-01-2016 01:24,Personal,Boston,Los Angeles,22.55,Customer Visit
+04-08-2016 17:05,27-07-2016 15:15,Personal,Los Angeles,New York,27.65,Customer Visit
+17-06-2016 15:15,07-02-2016 19:05,Business,Boston,Chicago,14.17,Customer Visit
+20-12-2016 02:05,20-02-2016 19:48,Business,San Francisco,San Francisco,33.9,Errand
+22-07-2016 06:19,26-05-2016 17:06,Business,New York,Chicago,22.81,Errand
+28-01-2016 13:38,29-08-2016 07:21,Personal,Chicago,Los Angeles,11.15,Other
+26-10-2016 11:41,23-07-2016 03:35,Personal,Chicago,New York,45.54,Meeting
+28-08-2016 11:07,14-06-2016 05:39,Personal,Los Angeles,San Francisco,43.25,Errand
+27-11-2016 15:47,21-01-2016 18:09,Personal,San Francisco,San Francisco,15.88,Errand
+02-11-2016 08:46,03-07-2016 03:48,Business,San Francisco,New York,11.56,Meeting
+08-08-2016 09:50,30-09-2016 06:04,Personal,San Francisco,San Francisco,47.33,Other
+10-06-2016 16:58,01-01-2016 14:28,Personal,San Francisco,San Francisco,42.97,Meal
+19-05-2016 00:37,22-02-2016 06:50,Personal,New York,New York,1.28,Other
+24-07-2016 18:48,20-10-2016 20:23,Personal,New York,Boston,7.54,Other
+24-03-2016 11:26,05-11-2016 20:10,Business,Los Angeles,San Francisco,6.1,Errand
+12-04-2016 07:01,19-01-2016 13:08,Business,Chicago,New York,7.95,Other
+09-03-2016 08:10,03-10-2016 02:35,Personal,Chicago,Boston,37.98,Errand
+02-02-2016 12:14,17-01-2016 06:29,Personal,San Francisco,Los Angeles,31.61,Meeting
+20-02-2016 11:00,04-01-2016 12:36,Business,San Francisco,Boston,49.39,Meeting
+11-08-2016 08:49,13-07-2016 21:33,Personal,San Francisco,Chicago,48.65,Other
+30-10-2016 13:46,03-07-2016 14:44,Business,Chicago,Chicago,27.18,Errand
+25-12-2016 18:55,21-01-2016 23:04,Business,San Francisco,Boston,25.33,Other
+20-01-2016 09:52,03-12-2016 18:29,Personal,San Francisco,New York,40.7,Errand
+22-01-2016 02:13,11-11-2016 21:05,Business,New York,New York,33.31,Meeting
+13-09-2016 20:51,21-05-2016 03:11,Personal,Chicago,Boston,18.06,Meal
+04-08-2016 10:08,28-05-2016 05:47,Business,Chicago,Chicago,24.75,Meal
+30-11-2016 21:02,25-04-2016 19:53,Personal,Boston,San Francisco,30.7,Other
+12-10-2016 08:35,25-04-2016 17:47,Business,Boston,San Francisco,46.03,Errand
+13-04-2016 14:04,10-03-2016 04:18,Personal,San Francisco,Chicago,49.09,Meal
+11-02-2016 02:39,23-10-2016 14:31,Business,Boston,Boston,38.95,Errand
+06-08-2016 18:48,06-01-2016 11:07,Business,New York,Boston,19.09,Customer Visit
+10-10-2016 07:34,14-11-2016 06:06,Personal,Boston,Los Angeles,36.05,Customer Visit
+28-09-2016 22:29,30-12-2016 20:04,Business,Chicago,Chicago,29.88,Customer Visit
+24-06-2016 09:44,30-10-2016 00:23,Personal,Boston,Boston,41.82,Customer Visit
+13-03-2016 18:05,30-12-2016 01:32,Business,Boston,San Francisco,34.16,Customer Visit
+11-07-2016 01:21,12-03-2016 23:17,Personal,New York,San Francisco,33.24,Customer Visit
+07-01-2016 12:26,13-12-2016 01:05,Personal,Los Angeles,Boston,20.66,Errand
+21-06-2016 02:19,20-11-2016 15:06,Business,Boston,Los Angeles,2.66,Other
+02-03-2016 06:17,03-10-2016 13:22,Business,Chicago,Boston,47.3,Other
+28-06-2016 04:53,31-12-2016 21:49,Personal,San Francisco,Chicago,23.42,Customer Visit
+09-11-2016 11:40,27-10-2016 17:25,Business,New York,New York,46.62,Meeting
+28-04-2016 13:38,17-04-2016 14:40,Business,Los Angeles,New York,30.91,Meal
+20-08-2016 18:12,26-09-2016 20:11,Business,Chicago,New York,10.8,Other
+27-06-2016 11:05,17-08-2016 01:54,Personal,Chicago,Los Angeles,7.53,Errand
+21-04-2016 18:38,21-03-2016 12:59,Business,Chicago,New York,39.94,Meal
+12-10-2016 11:25,08-05-2016 12:36,Business,Chicago,Chicago,15.15,Errand
+06-06-2016 16:12,12-01-2016 08:49,Business,Chicago,Boston,12.88,Errand
+19-02-2016 05:08,19-08-2016 00:30,Personal,San Francisco,Los Angeles,34.82,Errand
+14-03-2016 01:43,31-01-2016 18:52,Personal,Chicago,San Francisco,9.11,Other
+22-07-2016 02:13,04-03-2016 09:26,Business,New York,Boston,40.62,Errand
+26-05-2016 21:52,09-08-2016 16:35,Business,San Francisco,New York,40.05,Customer Visit
+18-12-2016 09:25,16-08-2016 03:58,Business,Chicago,Boston,34.61,Customer Visit
+10-03-2016 21:41,25-01-2016 17:14,Business,San Francisco,Chicago,49.73,Meeting
+03-04-2016 14:29,02-08-2016 10:40,Personal,Chicago,Boston,34.78,Meal
+29-07-2016 20:29,13-06-2016 17:59,Business,Los Angeles,Los Angeles,34.92,Errand
+23-09-2016 00:02,29-06-2016 17:22,Personal,Boston,Chicago,35.24,Meeting
+10-09-2016 07:06,19-04-2016 03:42,Personal,Los Angeles,Chicago,10.84,Other
+10-04-2016 22:18,13-04-2016 20:01,Personal,Boston,Boston,48.94,Meeting
+14-01-2016 14:49,18-07-2016 22:37,Personal,Chicago,New York,36.86,Meeting
+08-10-2016 06:20,29-01-2016 08:44,Personal,New York,Chicago,32.73,Meeting
+02-07-2016 12:40,12-09-2016 05:00,Personal,San Francisco,New York,14.2,Errand
+11-03-2016 04:23,29-12-2016 21:30,Personal,San Francisco,New York,35.4,Errand
+01-09-2016 18:55,01-05-2016 18:47,Business,Boston,New York,26.26,Meal
+14-08-2016 16:45,13-11-2016 01:23,Personal,Los Angeles,Boston,5.35,Other
+04-10-2016 08:43,24-03-2016 11:40,Personal,Chicago,Chicago,16.04,Other
+24-03-2016 01:56,23-10-2016 14:42,Personal,Chicago,Boston,22.75,Meal
+21-02-2016 13:34,25-11-2016 08:22,Personal,New York,Los Angeles,21.89,Customer Visit
+09-09-2016 09:10,20-04-2016 18:55,Personal,Chicago,Chicago,4.15,Customer Visit
+03-09-2016 05:05,22-10-2016 06:30,Business,Chicago,Chicago,6.29,Other
+07-11-2016 19:36,09-07-2016 05:13,Personal,Los Angeles,New York,1.63,Errand
+25-02-2016 16:31,25-04-2016 02:25,Business,Chicago,San Francisco,41.46,Errand
+31-05-2016 12:12,17-12-2016 21:21,Business,San Francisco,Chicago,14.01,Errand
+30-08-2016 19:26,14-04-2016 06:53,Business,San Francisco,Los Angeles,4.45,Meeting
+30-03-2016 14:14,18-10-2016 01:55,Personal,Boston,San Francisco,44.55,Meal
+25-10-2016 11:37,07-06-2016 14:51,Personal,New York,San Francisco,2.43,Meeting
+11-05-2016 11:21,22-11-2016 15:36,Business,San Francisco,New York,11.39,Errand
+03-11-2016 21:28,06-03-2016 23:09,Personal,New York,Los Angeles,13.4,Other
+16-04-2016 15:34,21-03-2016 15:38,Personal,New York,Boston,41.09,Meeting
+22-08-2016 21:45,30-11-2016 03:38,Personal,Chicago,San Francisco,30.4,Meeting
+15-02-2016 16:15,04-10-2016 00:17,Personal,San Francisco,San Francisco,16.57,Other
+24-02-2016 23:18,05-12-2016 17:02,Personal,Los Angeles,New York,24.03,Errand
+29-04-2016 00:12,05-10-2016 08:21,Personal,San Francisco,New York,23.3,Meal
+03-12-2016 12:54,17-06-2016 12:44,Business,New York,Boston,46.53,Meal
+24-03-2016 19:04,29-05-2016 23:26,Business,San Francisco,Chicago,5.95,Customer Visit
+21-12-2016 07:46,11-01-2016 20:27,Personal,New York,New York,14.59,Customer Visit
+10-07-2016 12:04,11-10-2016 07:05,Personal,New York,Los Angeles,23.39,Customer Visit
+04-12-2016 08:18,28-12-2016 05:10,Personal,New York,Chicago,30.81,Other
+05-04-2016 02:25,03-06-2016 12:08,Business,New York,New York,16.13,Other
+25-04-2016 09:51,31-08-2016 18:16,Personal,Los Angeles,Boston,15.69,Meeting
+14-06-2016 07:56,24-07-2016 04:44,Business,Chicago,Chicago,3.11,Meal
+16-02-2016 05:39,16-12-2016 03:45,Personal,Boston,Chicago,11.2,Other
+08-01-2016 00:03,10-09-2016 00:44,Personal,San Francisco,Chicago,28.47,Meal
+02-06-2016 08:19,26-05-2016 12:27,Business,New York,Boston,36.31,Customer Visit
+14-02-2016 10:29,20-11-2016 09:31,Business,San Francisco,New York,21.07,Errand
+10-03-2016 20:39,09-11-2016 17:54,Personal,New York,San Francisco,43.04,Customer Visit
+01-02-2016 14:50,26-06-2016 02:20,Personal,Los Angeles,New York,27.3,Other
+11-07-2016 23:28,08-10-2016 13:28,Personal,Chicago,New York,48.2,Other
+19-03-2016 23:45,28-08-2016 08:37,Business,Boston,Boston,34.11,Errand
+18-08-2016 22:26,03-10-2016 05:36,Business,Los Angeles,Los Angeles,23.91,Meeting
+23-10-2016 14:42,08-03-2016 08:34,Business,San Francisco,Chicago,14.84,Other
+30-06-2016 18:54,01-12-2016 11:46,Personal,Los Angeles,Chicago,11.02,Errand
+23-10-2016 05:45,01-08-2016 13:07,Personal,Los Angeles,Los Angeles,22.79,Errand
+22-05-2016 15:11,04-09-2016 23:23,Personal,Los Angeles,Boston,46.18,Errand
+16-09-2016 09:10,17-10-2016 19:58,Business,New York,Chicago,44.54,Other
+23-02-2016 16:53,23-07-2016 16:11,Business,New York,San Francisco,9.16,Meeting
+26-09-2016 05:37,22-11-2016 23:03,Personal,Los Angeles,Los Angeles,46.31,Errand
+05-11-2016 09:23,24-06-2016 11:57,Business,Chicago,Chicago,13.92,Errand
+29-06-2016 01:07,11-05-2016 03:21,Business,San Francisco,Boston,3.92,Errand
+26-05-2016 01:27,14-07-2016 05:10,Personal,Chicago,New York,43.29,Meal
+20-11-2016 22:27,16-08-2016 21:03,Personal,Boston,San Francisco,34.51,Errand
+29-08-2016 14:10,10-03-2016 02:04,Business,New York,Los Angeles,16.87,Other
+06-03-2016 23:58,18-06-2016 01:22,Business,Boston,Chicago,17.62,Meal
+06-03-2016 07:00,19-10-2016 14:21,Business,New York,Boston,18.68,Meal
+15-05-2016 03:50,10-04-2016 04:23,Business,Los Angeles,Los Angeles,26.59,Meeting
+04-11-2016 16:31,20-10-2016 18:55,Personal,New York,Boston,20.2,Errand
+03-04-2016 08:20,23-12-2016 07:14,Business,Los Angeles,San Francisco,21.38,Errand
+01-07-2016 15:43,09-04-2016 21:01,Business,San Francisco,Los Angeles,31.35,Meal
+06-01-2016 11:34,08-03-2016 18:46,Personal,San Francisco,Chicago,37.23,Meeting
+16-03-2016 03:32,17-12-2016 04:22,Personal,Boston,Los Angeles,34.05,Meal
+08-05-2016 23:12,01-03-2016 22:35,Personal,Chicago,Boston,30.03,Errand
+06-10-2016 17:21,04-07-2016 17:59,Business,Chicago,New York,5.6,Meal
+25-07-2016 02:04,18-04-2016 00:04,Personal,San Francisco,Boston,44.14,Errand
+29-08-2016 23:38,09-02-2016 20:00,Business,Chicago,New York,35.72,Errand
+14-06-2016 01:57,03-08-2016 00:39,Business,Boston,San Francisco,33.19,Other
+22-04-2016 01:00,05-10-2016 05:17,Personal,San Francisco,San Francisco,1.95,Meal
+29-01-2016 05:14,13-11-2016 16:08,Personal,San Francisco,Boston,4.85,Meal
+12-12-2016 03:36,15-08-2016 14:49,Business,San Francisco,Boston,7.79,Errand
+05-07-2016 22:13,26-04-2016 00:26,Business,Chicago,San Francisco,49.98,Customer Visit
+04-12-2016 14:03,10-03-2016 23:20,Business,Los Angeles,San Francisco,40.2,Customer Visit
+23-11-2016 07:31,08-03-2016 03:43,Personal,New York,New York,38.64,Customer Visit
+19-03-2016 18:50,26-03-2016 22:40,Personal,Los Angeles,Chicago,28.12,Customer Visit
+28-03-2016 00:14,05-04-2016 03:39,Business,Los Angeles,Los Angeles,7.87,Customer Visit
+29-11-2016 22:54,27-05-2016 06:13,Personal,San Francisco,New York,31.02,Customer Visit
+11-05-2016 07:11,19-05-2016 12:48,Personal,Chicago,Chicago,33.79,Meeting
+09-11-2016 11:13,22-12-2016 10:29,Personal,Boston,San Francisco,5.16,Errand
+20-10-2016 11:15,05-10-2016 05:13,Business,New York,Chicago,30.71,Meal
+20-11-2016 01:05,18-10-2016 12:24,Personal,Boston,Los Angeles,18.47,Meeting
+02-09-2016 23:52,30-05-2016 20:18,Business,Boston,San Francisco,35.21,Meal
+16-06-2016 09:50,17-04-2016 14:07,Business,Boston,Boston,30.8,Other
+08-02-2016 21:45,10-09-2016 01:01,Personal,San Francisco,San Francisco,33.07,Customer Visit
+26-05-2016 00:52,26-07-2016 18:33,Business,Chicago,New York,32.93,Meal
+17-04-2016 04:14,20-05-2016 23:12,Personal,Chicago,Chicago,19.77,Meal
+29-04-2016 18:04,25-05-2016 02:39,Business,Los Angeles,Los Angeles,27.06,Customer Visit
+03-08-2016 10:07,31-07-2016 10:38,Personal,Boston,Los Angeles,36.38,Errand
+26-01-2016 22:04,26-09-2016 09:51,Personal,New York,New York,18.65,Customer Visit
+26-11-2016 08:29,24-02-2016 13:46,Personal,Boston,San Francisco,37.22,Errand
+29-07-2016 02:15,06-01-2016 06:23,Personal,Boston,San Francisco,16.39,Customer Visit
+18-03-2016 06:15,18-01-2016 20:10,Personal,Boston,San Francisco,44.69,Meal
+30-11-2016 14:39,05-04-2016 08:55,Business,New York,Los Angeles,42.82,Other
+18-11-2016 11:24,28-12-2016 23:17,Business,Los Angeles,San Francisco,10.93,Other
+12-02-2016 04:20,24-08-2016 19:17,Business,Los Angeles,Boston,6.13,Meal
+11-12-2016 09:02,02-06-2016 14:16,Business,Los Angeles,Los Angeles,34.97,Meeting
+05-08-2016 02:03,06-12-2016 10:57,Business,New York,Los Angeles,9.59,Meeting
+04-10-2016 23:07,29-11-2016 18:37,Personal,Los Angeles,Chicago,43.3,Other
+14-10-2016 21:29,18-03-2016 12:38,Business,New York,New York,49.4,Meal
+03-10-2016 11:26,20-04-2016 13:34,Business,Los Angeles,Los Angeles,38.31,Customer Visit
+06-03-2016 02:36,21-11-2016 04:14,Business,Los Angeles,San Francisco,22.53,Customer Visit
+10-06-2016 10:39,27-09-2016 05:10,Business,San Francisco,Chicago,9.81,Errand
+09-12-2016 21:09,07-08-2016 14:55,Business,Chicago,Boston,32.45,Customer Visit
+18-04-2016 09:56,05-09-2016 10:47,Business,Los Angeles,San Francisco,16.83,Errand
+09-01-2016 00:10,29-01-2016 10:21,Business,Chicago,Los Angeles,30.93,Other
+21-07-2016 02:11,11-12-2016 16:09,Personal,Chicago,New York,27.97,Meal
+04-01-2016 21:10,16-10-2016 18:09,Business,San Francisco,Chicago,5.8,Meeting
+11-08-2016 14:13,01-11-2016 18:51,Personal,San Francisco,Boston,11.0,Errand
+03-09-2016 22:01,21-04-2016 09:40,Business,San Francisco,San Francisco,9.55,Errand
+03-01-2016 06:23,20-03-2016 03:53,Personal,San Francisco,Chicago,6.45,Customer Visit
+28-10-2016 06:13,17-08-2016 13:09,Business,Chicago,Boston,43.18,Meeting
+20-05-2016 16:14,19-11-2016 21:37,Business,Boston,Boston,29.79,Errand
+09-01-2016 05:22,07-10-2016 20:45,Personal,Boston,Boston,1.51,Meal
+09-05-2016 05:43,11-01-2016 15:37,Business,Boston,San Francisco,26.1,Customer Visit
+19-09-2016 09:09,26-03-2016 12:14,Personal,New York,Chicago,23.16,Meeting
+25-04-2016 17:08,05-08-2016 06:36,Business,Boston,Los Angeles,34.15,Meeting
+08-03-2016 01:07,17-01-2016 04:17,Personal,Chicago,New York,19.4,Meal
+11-06-2016 17:38,08-09-2016 20:54,Business,Boston,New York,26.21,Meeting
+25-07-2016 03:34,08-11-2016 07:05,Personal,Los Angeles,Chicago,19.96,Meeting
+27-09-2016 01:17,29-03-2016 17:07,Business,San Francisco,New York,14.41,Meal
+08-10-2016 21:45,23-05-2016 02:45,Personal,New York,New York,17.45,Customer Visit
+10-12-2016 06:18,20-11-2016 07:43,Personal,Chicago,New York,6.77,Meal
+27-02-2016 09:31,16-10-2016 23:09,Personal,New York,New York,6.2,Customer Visit
+23-09-2016 00:31,12-04-2016 20:40,Business,New York,San Francisco,47.08,Other
+22-09-2016 18:56,04-11-2016 06:54,Personal,Boston,Chicago,38.74,Other
+24-10-2016 18:19,22-01-2016 11:35,Business,Boston,San Francisco,32.88,Other
+14-08-2016 16:19,15-01-2016 02:51,Personal,Los Angeles,San Francisco,16.21,Other
+17-10-2016 20:29,02-10-2016 04:29,Business,San Francisco,San Francisco,26.81,Errand
+10-07-2016 12:16,08-08-2016 08:16,Business,Boston,Boston,26.4,Other
+03-09-2016 09:24,23-02-2016 00:39,Personal,Boston,Chicago,11.91,Meeting
+30-01-2016 10:54,16-10-2016 12:27,Personal,Chicago,New York,12.24,Customer Visit
+11-10-2016 16:24,05-02-2016 09:40,Business,San Francisco,Chicago,4.73,Other
+14-08-2016 21:14,24-12-2016 04:59,Business,San Francisco,New York,19.15,Meal
+28-01-2016 05:56,25-09-2016 12:17,Personal,San Francisco,New York,12.77,Other
+28-06-2016 16:03,23-01-2016 04:50,Personal,Chicago,New York,5.92,Customer Visit
+06-09-2016 12:03,08-09-2016 00:56,Personal,Los Angeles,Boston,13.46,Errand
+14-09-2016 15:33,11-08-2016 01:38,Business,New York,Boston,25.22,Customer Visit
+01-03-2016 00:00,17-08-2016 13:24,Business,San Francisco,New York,34.82,Other
+04-05-2016 12:42,29-08-2016 02:22,Personal,San Francisco,Chicago,49.69,Meeting
+06-05-2016 08:13,25-08-2016 12:53,Personal,Boston,New York,10.39,Errand
+10-11-2016 16:02,05-02-2016 21:37,Business,Los Angeles,Boston,9.59,Other
+04-07-2016 14:32,28-02-2016 09:29,Personal,Chicago,Chicago,34.49,Customer Visit
+31-07-2016 12:43,12-05-2016 01:10,Business,Chicago,San Francisco,16.78,Meal
+18-08-2016 16:49,16-08-2016 12:59,Business,Chicago,San Francisco,2.58,Customer Visit
+23-07-2016 20:58,24-05-2016 19:32,Personal,New York,New York,24.09,Other
+20-09-2016 11:54,22-01-2016 23:35,Business,San Francisco,Los Angeles,36.84,Other
+08-10-2016 01:00,25-10-2016 12:37,Business,New York,Chicago,31.7,Customer Visit
+08-09-2016 00:33,24-01-2016 23:45,Personal,San Francisco,Boston,49.42,Meeting
+11-07-2016 10:06,14-05-2016 03:19,Business,Boston,Boston,21.15,Meeting
+11-05-2016 16:50,05-02-2016 10:33,Business,Boston,Boston,21.68,Errand
+31-07-2016 20:55,02-11-2016 09:44,Personal,San Francisco,Los Angeles,33.21,Customer Visit
+09-10-2016 23:23,07-06-2016 03:12,Personal,San Francisco,Boston,18.02,Other
+04-04-2016 03:51,07-03-2016 02:34,Business,New York,Chicago,44.53,Meal
+01-07-2016 18:40,13-03-2016 13:00,Business,Boston,New York,26.95,Other
+10-07-2016 10:55,04-03-2016 08:09,Business,San Francisco,New York,32.29,Other
+22-09-2016 05:23,11-05-2016 06:50,Personal,Chicago,Los Angeles,3.15,Meeting
+18-06-2016 03:35,07-02-2016 18:28,Personal,Boston,New York,30.71,Customer Visit
+08-05-2016 12:51,26-05-2016 17:55,Business,Chicago,New York,12.21,Meal
+24-12-2016 10:09,16-01-2016 12:47,Business,Los Angeles,San Francisco,28.44,Errand
+13-02-2016 19:05,26-01-2016 08:51,Business,Chicago,Boston,2.57,Customer Visit
+05-08-2016 03:26,23-12-2016 17:52,Personal,San Francisco,San Francisco,42.7,Errand
+31-01-2016 23:43,05-09-2016 02:08,Personal,Los Angeles,Chicago,5.32,Meal
+26-08-2016 16:51,10-05-2016 08:19,Personal,Boston,Boston,29.5,Customer Visit
+15-01-2016 07:37,17-12-2016 18:35,Business,Los Angeles,San Francisco,4.53,Customer Visit
+06-09-2016 18:06,27-04-2016 12:11,Business,Boston,Los Angeles,12.19,Other
+27-09-2016 06:29,06-10-2016 12:40,Business,Chicago,New York,30.13,Meeting
+29-06-2016 22:30,15-09-2016 14:35,Personal,San Francisco,New York,30.87,Errand
+25-06-2016 17:27,25-07-2016 15:55,Personal,Boston,San Francisco,48.85,Other
+04-08-2016 03:18,16-01-2016 06:57,Business,Chicago,Chicago,13.6,Other
+30-03-2016 12:13,10-07-2016 02:05,Personal,Boston,Boston,6.86,Meeting
+20-08-2016 19:19,04-09-2016 08:03,Business,Los Angeles,Chicago,24.42,Meal
+24-01-2016 19:39,07-08-2016 21:51,Personal,New York,San Francisco,48.65,Errand
+23-10-2016 01:41,05-07-2016 17:23,Personal,Los Angeles,Chicago,3.14,Errand
+05-09-2016 08:26,05-09-2016 23:36,Personal,Chicago,New York,27.5,Other
+16-02-2016 04:41,15-12-2016 23:08,Business,New York,New York,28.06,Errand
+20-06-2016 03:36,04-04-2016 20:41,Personal,San Francisco,Boston,7.54,Customer Visit
+07-10-2016 18:57,22-02-2016 19:41,Personal,Los Angeles,Los Angeles,25.51,Other
+15-12-2016 17:17,31-03-2016 14:18,Business,New York,Los Angeles,29.02,Meal
+04-11-2016 11:03,18-01-2016 07:29,Business,Boston,New York,34.03,Meeting
+15-11-2016 04:27,16-06-2016 21:56,Business,Chicago,New York,36.14,Other
+06-10-2016 19:02,15-07-2016 18:15,Business,Chicago,Chicago,15.17,Meal
+29-08-2016 18:24,27-04-2016 00:19,Business,New York,Boston,1.88,Other
+06-04-2016 16:20,06-10-2016 05:50,Business,Chicago,New York,16.76,Errand
+06-12-2016 13:07,20-01-2016 03:36,Personal,Chicago,Chicago,44.33,Meeting
+10-01-2016 19:37,13-12-2016 05:47,Personal,Boston,Boston,22.74,Other
+22-03-2016 14:18,30-10-2016 12:32,Personal,Boston,Los Angeles,42.57,Meeting
+09-11-2016 18:09,09-02-2016 23:05,Personal,Chicago,San Francisco,1.05,Customer Visit
+27-03-2016 07:22,15-12-2016 15:42,Personal,New York,Chicago,7.61,Customer Visit
+22-09-2016 14:12,04-03-2016 23:17,Business,New York,New York,47.54,Customer Visit
+31-08-2016 14:15,30-11-2016 01:17,Personal,Chicago,San Francisco,44.06,Customer Visit
+01-01-2016 11:25,11-09-2016 22:24,Personal,Los Angeles,Chicago,47.34,Errand
+21-09-2016 16:03,10-11-2016 18:55,Business,Los Angeles,Boston,44.92,Meal
+01-08-2016 05:10,17-04-2016 17:48,Personal,New York,Chicago,44.08,Customer Visit
+29-10-2016 01:56,29-11-2016 01:43,Business,San Francisco,Chicago,15.71,Meal
+30-01-2016 11:02,28-02-2016 01:55,Business,New York,New York,23.83,Errand
+09-11-2016 05:42,19-06-2016 22:23,Personal,New York,New York,26.57,Errand
+11-06-2016 11:11,10-11-2016 12:56,Business,Chicago,Los Angeles,17.74,Meal
+13-05-2016 18:30,04-06-2016 14:15,Business,New York,Los Angeles,28.7,Meeting
+23-05-2016 21:56,28-09-2016 02:03,Business,San Francisco,San Francisco,15.08,Meal
+14-01-2016 21:40,27-02-2016 05:21,Personal,Los Angeles,Chicago,47.19,Meeting
+18-09-2016 22:15,05-11-2016 07:18,Business,Boston,San Francisco,12.39,Meeting
+15-09-2016 22:11,08-07-2016 15:51,Business,Chicago,Chicago,12.24,Errand
+21-10-2016 11:41,21-11-2016 09:29,Personal,San Francisco,New York,25.48,Meeting
+22-10-2016 13:00,22-12-2016 10:08,Business,Los Angeles,Boston,21.21,Meal
+19-05-2016 14:03,26-07-2016 00:41,Personal,New York,San Francisco,35.56,Meal
+20-01-2016 07:16,31-08-2016 01:35,Personal,New York,Los Angeles,49.35,Other
+10-04-2016 13:47,02-03-2016 08:28,Personal,Chicago,Chicago,23.9,Meeting
+19-12-2016 20:47,07-05-2016 13:38,Business,San Francisco,San Francisco,38.88,Other
+04-01-2016 15:06,22-11-2016 16:23,Business,San Francisco,Los Angeles,5.4,Meal
+11-01-2016 22:11,17-07-2016 21:50,Business,Chicago,New York,9.61,Meal
+24-03-2016 12:13,27-06-2016 06:24,Personal,Chicago,Los Angeles,6.0,Other
+20-08-2016 16:36,03-05-2016 09:59,Personal,Boston,Chicago,6.42,Customer Visit
+18-08-2016 19:57,07-06-2016 16:11,Personal,Los Angeles,Boston,34.54,Other
+11-04-2016 21:34,16-05-2016 08:54,Business,Boston,Los Angeles,7.74,Customer Visit
+06-12-2016 08:47,15-01-2016 03:51,Personal,Boston,Boston,3.53,Meeting
+25-01-2016 11:24,25-12-2016 14:23,Business,Chicago,Boston,4.78,Other
+13-05-2016 17:20,30-12-2016 20:09,Personal,New York,Los Angeles,48.3,Errand
+01-05-2016 08:25,06-11-2016 19:38,Business,Chicago,San Francisco,20.92,Errand
+09-09-2016 11:39,25-08-2016 03:19,Personal,San Francisco,Boston,8.56,Meal
+26-06-2016 20:05,01-08-2016 14:10,Personal,Los Angeles,Chicago,25.33,Customer Visit
+06-03-2016 09:23,09-06-2016 05:18,Business,New York,Los Angeles,16.88,Meal
+23-01-2016 14:48,27-07-2016 09:03,Business,Chicago,Los Angeles,16.65,Other
+10-08-2016 16:33,26-11-2016 02:17,Personal,Los Angeles,Boston,18.96,Other
+02-08-2016 05:31,10-10-2016 00:42,Business,New York,New York,31.96,Meeting
+13-03-2016 14:46,15-04-2016 22:53,Business,Los Angeles,Boston,10.22,Other
+20-04-2016 05:43,21-06-2016 18:44,Personal,Boston,Boston,40.81,Errand
+16-09-2016 02:00,27-02-2016 12:54,Business,Los Angeles,New York,37.06,Meal
+16-09-2016 14:03,07-01-2016 05:30,Business,San Francisco,Los Angeles,41.18,Errand
+31-07-2016 16:27,26-06-2016 21:06,Personal,San Francisco,Boston,33.35,Errand
+01-05-2016 22:30,22-12-2016 06:53,Personal,Chicago,Boston,46.82,Meeting
+28-06-2016 12:07,12-05-2016 19:11,Business,Chicago,Chicago,11.17,Meal
+10-09-2016 04:53,02-02-2016 12:07,Business,San Francisco,Los Angeles,45.22,Meal
+21-02-2016 09:59,08-07-2016 12:03,Business,Chicago,New York,14.63,Meal
+14-03-2016 17:59,04-10-2016 06:30,Personal,Los Angeles,Boston,15.52,Meeting
+10-06-2016 03:39,29-12-2016 03:21,Business,Los Angeles,San Francisco,9.16,Other
+22-04-2016 10:31,30-08-2016 03:29,Business,Chicago,San Francisco,11.44,Meeting
+16-10-2016 14:05,23-11-2016 07:57,Business,San Francisco,New York,10.48,Meeting
+15-04-2016 10:27,02-12-2016 22:17,Personal,San Francisco,Chicago,38.46,Errand
+01-09-2016 04:33,19-12-2016 05:45,Personal,San Francisco,New York,37.14,Meeting
+18-10-2016 19:11,17-08-2016 04:18,Business,New York,New York,16.03,Customer Visit
+08-06-2016 21:20,09-09-2016 19:29,Business,Boston,New York,32.7,Meal
+03-03-2016 14:59,09-05-2016 16:51,Business,New York,Chicago,42.29,Customer Visit
+03-05-2016 02:18,16-11-2016 20:52,Personal,San Francisco,Boston,19.59,Meeting
+23-12-2016 13:18,23-04-2016 11:22,Personal,Los Angeles,New York,15.66,Meal
+25-05-2016 04:22,16-05-2016 18:07,Business,Chicago,Chicago,29.21,Meal
+28-10-2016 13:54,20-01-2016 10:56,Business,New York,Los Angeles,49.98,Other
+21-03-2016 19:17,04-02-2016 15:43,Business,San Francisco,Los Angeles,26.11,Errand
+20-12-2016 23:38,27-11-2016 06:25,Business,New York,Chicago,2.13,Errand
+16-10-2016 04:58,29-06-2016 05:00,Personal,New York,New York,48.96,Meeting
+22-09-2016 14:52,31-05-2016 11:52,Business,Chicago,San Francisco,24.45,Meeting
+19-05-2016 19:27,14-07-2016 22:48,Personal,Boston,New York,6.79,Other
+31-10-2016 06:11,03-09-2016 08:37,Business,New York,Chicago,1.04,Meeting
+17-05-2016 05:30,17-03-2016 08:31,Business,Chicago,Boston,8.28,Meeting
+01-06-2016 16:05,19-02-2016 01:47,Business,San Francisco,Boston,3.28,Customer Visit
+15-04-2016 01:42,08-01-2016 08:37,Personal,Boston,Chicago,46.91,Errand
+26-11-2016 23:19,04-07-2016 07:20,Business,Boston,New York,4.96,Errand
+07-12-2016 03:40,18-03-2016 07:44,Personal,San Francisco,Chicago,18.74,Meal
+17-08-2016 16:22,02-02-2016 06:55,Business,Chicago,Los Angeles,11.31,Meeting
+06-03-2016 01:55,20-05-2016 07:55,Personal,Los Angeles,Boston,13.51,Other
+19-07-2016 01:55,23-01-2016 21:42,Personal,Chicago,Boston,19.32,Customer Visit
+05-09-2016 13:58,04-05-2016 12:03,Personal,Boston,Chicago,11.34,Other
+26-02-2016 01:30,04-04-2016 22:40,Personal,Los Angeles,Los Angeles,24.92,Errand
+21-03-2016 12:53,08-12-2016 17:48,Personal,Chicago,Chicago,29.17,Customer Visit
+07-02-2016 17:02,15-06-2016 01:14,Personal,New York,San Francisco,39.12,Customer Visit
+07-01-2016 03:03,11-08-2016 14:53,Business,Chicago,Los Angeles,21.31,Meeting
+28-11-2016 03:35,22-04-2016 02:58,Business,Boston,Chicago,23.05,Meeting
+17-04-2016 05:54,01-03-2016 10:43,Personal,Chicago,Los Angeles,26.37,Other
+27-08-2016 08:46,10-11-2016 06:00,Business,San Francisco,Boston,19.51,Other
+27-04-2016 04:19,10-01-2016 05:37,Business,San Francisco,Los Angeles,49.1,Errand
+17-09-2016 22:29,20-06-2016 10:46,Business,Chicago,Los Angeles,14.81,Meal
+23-08-2016 14:09,18-02-2016 06:02,Business,San Francisco,San Francisco,33.29,Meal
+26-07-2016 09:31,26-02-2016 08:44,Business,New York,San Francisco,40.65,Meal
+07-11-2016 03:27,09-04-2016 18:13,Personal,San Francisco,San Francisco,12.32,Meal
+19-02-2016 20:50,14-09-2016 07:00,Business,San Francisco,Chicago,8.65,Errand
+27-05-2016 05:39,13-10-2016 19:45,Personal,Chicago,Chicago,4.46,Errand
+27-12-2016 15:55,06-08-2016 07:10,Personal,Los Angeles,Chicago,36.25,Meeting
+06-09-2016 17:26,04-12-2016 17:07,Business,Boston,New York,18.96,Meal
+11-01-2016 22:29,20-04-2016 06:31,Personal,Los Angeles,Boston,19.58,Other
+29-02-2016 06:33,05-07-2016 03:02,Personal,Chicago,New York,28.45,Other
+18-01-2016 10:17,10-03-2016 09:18,Business,Boston,Boston,30.51,Customer Visit
+06-07-2016 06:20,22-02-2016 01:12,Personal,Boston,Boston,4.04,Meal
+20-10-2016 16:02,13-03-2016 20:17,Personal,Boston,Chicago,22.53,Other
+24-09-2016 21:05,19-09-2016 11:47,Business,San Francisco,Boston,1.85,Other
+20-02-2016 01:29,23-04-2016 18:05,Personal,Chicago,Chicago,48.68,Errand
+12-10-2016 10:32,18-08-2016 07:37,Personal,New York,New York,47.85,Other
+29-06-2016 09:44,10-03-2016 03:10,Business,Los Angeles,New York,18.2,Errand
+29-10-2016 03:52,17-01-2016 04:50,Personal,San Francisco,San Francisco,7.53,Other
+11-07-2016 15:55,23-12-2016 04:44,Personal,Los Angeles,Los Angeles,36.37,Meeting
+10-03-2016 01:57,12-08-2016 01:29,Business,San Francisco,San Francisco,44.81,Meeting
+26-06-2016 22:30,19-05-2016 16:33,Personal,New York,Los Angeles,7.99,Meal
+18-08-2016 21:59,21-08-2016 11:46,Personal,San Francisco,Chicago,28.03,Other
+25-01-2016 12:26,29-03-2016 22:30,Personal,San Francisco,New York,11.52,Meal
+04-11-2016 02:34,27-07-2016 08:49,Personal,Los Angeles,Los Angeles,9.48,Meal
+07-08-2016 15:56,04-01-2016 12:55,Personal,Boston,Boston,15.47,Errand
+29-05-2016 16:36,08-11-2016 08:44,Personal,New York,Boston,31.77,Customer Visit
+04-12-2016 09:31,15-04-2016 21:08,Personal,Los Angeles,San Francisco,38.81,Other
+17-09-2016 13:21,18-11-2016 23:46,Business,Los Angeles,New York,17.1,Meeting
+12-03-2016 13:10,27-11-2016 08:50,Personal,Boston,San Francisco,14.22,Meal
+13-04-2016 05:27,21-01-2016 14:31,Personal,San Francisco,Los Angeles,24.07,Meeting
+31-08-2016 21:15,31-07-2016 00:11,Business,Chicago,New York,31.79,Customer Visit
+26-08-2016 08:00,08-12-2016 22:33,Personal,Chicago,Boston,15.86,Errand
+27-09-2016 14:40,20-12-2016 04:08,Business,San Francisco,Los Angeles,19.3,Customer Visit
+03-11-2016 10:25,14-05-2016 17:51,Business,Boston,Chicago,1.23,Meeting
+28-08-2016 19:47,12-11-2016 11:55,Personal,Los Angeles,New York,1.91,Customer Visit
+02-01-2016 19:11,22-04-2016 13:44,Business,Los Angeles,Boston,42.95,Errand
+19-10-2016 15:45,25-01-2016 04:03,Personal,New York,New York,48.44,Errand
+20-01-2016 17:12,04-07-2016 18:50,Personal,Chicago,Chicago,44.7,Meeting
+11-08-2016 12:47,02-11-2016 13:55,Business,Chicago,Boston,17.02,Customer Visit
+09-10-2016 08:17,26-03-2016 19:18,Personal,Chicago,Los Angeles,31.9,Other
+12-11-2016 21:14,28-07-2016 22:29,Business,Chicago,New York,4.03,Customer Visit
+12-12-2016 08:34,12-12-2016 15:41,Business,Boston,Chicago,24.31,Meal
+17-07-2016 22:48,11-07-2016 06:47,Business,Boston,Los Angeles,17.89,Customer Visit
+22-03-2016 08:19,20-02-2016 09:07,Business,Chicago,New York,37.96,Customer Visit
+24-03-2016 12:33,29-04-2016 11:37,Personal,Chicago,Chicago,20.93,Meeting
+26-12-2016 08:43,26-04-2016 16:43,Business,New York,Boston,27.36,Errand
+01-11-2016 23:49,26-07-2016 01:42,Business,Los Angeles,New York,18.42,Other
+03-11-2016 14:50,03-03-2016 23:38,Personal,New York,Los Angeles,8.45,Customer Visit
+06-10-2016 06:56,24-12-2016 07:24,Business,New York,Boston,44.75,Meeting
+10-06-2016 08:49,18-10-2016 18:37,Personal,San Francisco,Chicago,42.66,Meal
+11-02-2016 14:13,26-03-2016 15:31,Personal,Chicago,Chicago,35.86,Meeting
+02-11-2016 12:37,29-04-2016 06:09,Business,San Francisco,Boston,15.71,Customer Visit
+25-08-2016 20:32,08-09-2016 06:42,Business,San Francisco,San Francisco,46.14,Errand
+11-11-2016 15:29,29-09-2016 23:07,Business,San Francisco,Boston,36.86,Meal
+22-08-2016 14:31,10-09-2016 09:30,Business,San Francisco,San Francisco,34.42,Meeting
+03-07-2016 07:36,11-06-2016 02:33,Business,Los Angeles,Los Angeles,18.7,Customer Visit
+21-02-2016 22:57,28-09-2016 02:40,Business,San Francisco,Boston,8.44,Meal
+24-11-2016 19:50,31-12-2016 07:27,Business,San Francisco,San Francisco,35.42,Meal
+09-12-2016 14:54,10-11-2016 04:37,Personal,New York,San Francisco,24.55,Meal
+10-08-2016 11:38,18-05-2016 18:21,Business,San Francisco,Los Angeles,38.24,Customer Visit
+16-09-2016 07:01,14-03-2016 04:09,Personal,San Francisco,New York,47.1,Errand
+22-05-2016 21:54,24-03-2016 17:24,Personal,Los Angeles,Los Angeles,21.19,Customer Visit
+27-10-2016 06:22,06-09-2016 08:00,Personal,Los Angeles,Chicago,12.15,Meeting
+08-11-2016 13:21,19-02-2016 10:29,Personal,San Francisco,San Francisco,33.6,Other
+04-09-2016 19:34,10-03-2016 22:40,Business,New York,Chicago,32.71,Customer Visit
+30-06-2016 05:07,18-01-2016 01:23,Personal,New York,Chicago,24.17,Customer Visit
+05-08-2016 19:52,12-01-2016 18:44,Business,Los Angeles,San Francisco,3.5,Customer Visit
+30-05-2016 11:11,14-11-2016 10:39,Personal,Chicago,New York,6.99,Meeting
+05-01-2016 21:29,28-04-2016 01:52,Business,Los Angeles,San Francisco,47.54,Meeting
+04-12-2016 07:08,03-07-2016 09:13,Business,Chicago,Los Angeles,46.29,Other
+04-11-2016 09:56,16-05-2016 17:10,Business,Los Angeles,Los Angeles,7.82,Other
+30-08-2016 17:16,26-12-2016 05:49,Business,Chicago,New York,33.56,Other
+01-05-2016 21:12,26-12-2016 23:36,Business,Boston,Los Angeles,41.2,Other
+27-06-2016 16:32,20-05-2016 12:21,Business,San Francisco,Boston,40.14,Meeting
+31-10-2016 18:31,06-05-2016 18:59,Business,Chicago,San Francisco,39.77,Errand
+01-03-2016 18:04,20-01-2016 18:17,Business,Boston,Los Angeles,3.65,Errand
+08-08-2016 07:59,08-03-2016 22:58,Business,New York,Boston,14.71,Other
+22-08-2016 09:48,18-05-2016 15:54,Personal,Boston,San Francisco,39.27,Meal
+21-03-2016 11:42,09-01-2016 05:04,Business,Chicago,New York,46.74,Other
+07-03-2016 05:51,24-07-2016 08:24,Business,San Francisco,San Francisco,41.46,Meal
+26-03-2016 07:14,11-02-2016 10:31,Business,Chicago,Boston,15.64,Customer Visit
+29-09-2016 00:14,19-06-2016 21:49,Personal,New York,Los Angeles,31.85,Errand
+18-05-2016 01:03,17-08-2016 01:54,Business,New York,Los Angeles,9.91,Meal
+27-08-2016 14:59,17-07-2016 17:58,Personal,Chicago,Los Angeles,30.71,Errand
+25-06-2016 00:05,20-11-2016 22:59,Personal,Chicago,New York,5.71,Meal
+14-01-2016 03:29,15-06-2016 12:00,Business,New York,San Francisco,37.95,Errand
+13-11-2016 17:12,03-05-2016 16:46,Business,San Francisco,New York,27.95,Errand
+19-08-2016 15:35,25-04-2016 21:35,Personal,New York,Chicago,23.89,Meeting
+08-08-2016 14:14,05-01-2016 14:32,Personal,Boston,Boston,49.21,Meeting
+18-02-2016 22:06,13-03-2016 01:51,Business,Boston,New York,27.04,Meal
+14-01-2016 02:44,09-10-2016 08:55,Business,Boston,New York,28.31,Meal
+24-09-2016 02:27,03-03-2016 15:54,Personal,San Francisco,Chicago,39.35,Meal
+30-11-2016 17:59,27-12-2016 17:07,Personal,San Francisco,San Francisco,48.72,Meal
+09-12-2016 09:14,11-06-2016 17:20,Business,San Francisco,Chicago,28.52,Other
+09-11-2016 21:35,09-01-2016 19:10,Business,San Francisco,Chicago,36.61,Meeting
+23-09-2016 07:25,25-12-2016 17:48,Personal,Chicago,San Francisco,43.64,Errand
+26-12-2016 17:47,19-11-2016 12:27,Business,New York,Chicago,10.4,Other
+29-03-2016 17:33,16-04-2016 05:20,Business,Boston,Boston,39.76,Customer Visit
+02-10-2016 22:31,29-12-2016 10:17,Personal,New York,New York,20.07,Meeting
+20-02-2016 02:30,13-07-2016 13:07,Business,New York,Los Angeles,13.32,Meeting
+11-10-2016 01:28,29-10-2016 17:52,Business,Boston,New York,1.48,Customer Visit
+09-01-2016 21:38,21-07-2016 05:35,Personal,San Francisco,Chicago,13.62,Meeting
+24-01-2016 10:38,04-11-2016 03:43,Business,Los Angeles,Los Angeles,9.21,Other
+04-10-2016 14:28,17-12-2016 00:27,Business,Boston,Los Angeles,44.47,Meal
+12-12-2016 05:57,10-11-2016 18:32,Business,Los Angeles,New York,44.11,Other
+06-12-2016 05:15,14-12-2016 03:42,Business,San Francisco,Los Angeles,5.28,Other
+09-01-2016 02:36,01-05-2016 06:18,Personal,San Francisco,Chicago,9.7,Customer Visit
+27-10-2016 09:36,15-01-2016 16:22,Personal,Boston,San Francisco,12.38,Other
+24-12-2016 09:21,23-07-2016 10:38,Personal,Chicago,San Francisco,28.49,Other
+25-10-2016 13:14,27-08-2016 20:05,Personal,New York,New York,26.72,Meeting
+16-08-2016 03:06,17-05-2016 00:24,Business,Chicago,New York,21.65,Errand
+17-02-2016 08:40,24-06-2016 21:24,Personal,Chicago,Boston,35.52,Customer Visit
+30-01-2016 12:54,11-06-2016 10:44,Personal,Chicago,Chicago,21.16,Meal
+03-08-2016 13:08,18-01-2016 10:03,Personal,San Francisco,Boston,31.71,Meeting
+03-09-2016 04:14,17-05-2016 15:33,Personal,New York,Chicago,32.43,Meal
+08-05-2016 12:59,28-10-2016 18:41,Business,Boston,Boston,32.25,Errand
+09-05-2016 17:28,01-12-2016 00:23,Business,Los Angeles,Boston,37.88,Errand
+05-02-2016 10:43,03-08-2016 13:46,Business,Los Angeles,San Francisco,36.13,Meal
+18-04-2016 09:01,05-04-2016 18:23,Business,San Francisco,Boston,22.18,Other
+08-12-2016 09:41,15-05-2016 00:13,Business,Boston,San Francisco,15.84,Other
+27-09-2016 17:58,14-10-2016 22:34,Business,Los Angeles,Boston,30.95,Other
+28-09-2016 07:24,25-07-2016 11:59,Business,Boston,San Francisco,6.3,Other
+31-08-2016 10:49,04-10-2016 02:51,Business,New York,Los Angeles,16.19,Other
+06-01-2016 04:27,21-06-2016 05:05,Business,Chicago,Chicago,39.39,Meeting
+05-11-2016 05:24,28-04-2016 23:55,Personal,Los Angeles,Boston,22.16,Meeting
+09-12-2016 17:05,08-12-2016 22:29,Business,Chicago,San Francisco,38.45,Meal
+17-06-2016 07:13,09-07-2016 23:41,Personal,Chicago,San Francisco,4.81,Other
+12-08-2016 08:56,06-01-2016 18:22,Personal,Los Angeles,Los Angeles,21.64,Meal
+09-04-2016 06:05,20-12-2016 12:29,Personal,Los Angeles,Boston,38.9,Meal
+09-08-2016 21:30,23-01-2016 13:13,Business,Boston,Boston,1.64,Meeting
+16-08-2016 20:40,28-04-2016 19:38,Personal,Boston,Los Angeles,13.23,Errand
+01-10-2016 14:37,30-12-2016 20:09,Personal,Chicago,Boston,37.31,Other
+08-04-2016 12:23,23-11-2016 18:34,Business,Boston,New York,16.86,Errand
+26-08-2016 15:27,21-08-2016 07:48,Personal,San Francisco,Los Angeles,34.59,Customer Visit
+08-12-2016 19:32,02-04-2016 00:59,Business,New York,Boston,2.94,Errand
+07-12-2016 04:44,08-04-2016 08:13,Business,Boston,New York,12.48,Other
+20-11-2016 14:34,07-06-2016 18:44,Personal,Chicago,Chicago,23.37,Meal
+02-03-2016 16:14,13-06-2016 08:45,Business,San Francisco,Los Angeles,20.37,Other
+08-07-2016 03:49,02-06-2016 05:45,Business,San Francisco,Chicago,31.97,Meeting
+03-11-2016 14:23,15-05-2016 17:40,Business,San Francisco,Chicago,24.24,Errand
+25-11-2016 08:15,13-09-2016 03:49,Business,San Francisco,Chicago,41.49,Errand
+21-02-2016 05:18,06-09-2016 17:00,Business,Boston,San Francisco,26.39,Other
+19-07-2016 13:55,22-05-2016 18:36,Personal,New York,New York,42.48,Customer Visit
+21-06-2016 19:20,23-11-2016 17:42,Business,Chicago,San Francisco,10.78,Meal
+11-11-2016 01:36,31-08-2016 02:40,Personal,Chicago,San Francisco,41.41,Meeting
+24-04-2016 13:11,03-04-2016 19:16,Business,New York,Los Angeles,47.34,Meal
+28-01-2016 19:54,27-03-2016 14:23,Personal,Los Angeles,Los Angeles,5.84,Meeting
+08-12-2016 18:52,26-05-2016 10:05,Business,San Francisco,San Francisco,19.77,Customer Visit
+26-02-2016 14:15,12-01-2016 16:24,Personal,San Francisco,Boston,28.08,Meal
+30-09-2016 16:34,11-12-2016 11:45,Personal,San Francisco,Boston,39.75,Customer Visit
+23-04-2016 11:49,08-07-2016 19:01,Personal,New York,Boston,10.75,Meeting
+05-11-2016 20:16,15-09-2016 02:21,Business,Boston,Chicago,40.13,Other
+13-07-2016 17:07,06-07-2016 04:53,Business,New York,Chicago,20.72,Customer Visit
+04-08-2016 09:19,17-08-2016 17:22,Business,Los Angeles,Los Angeles,12.73,Meeting
+06-03-2016 08:43,18-09-2016 02:36,Business,Boston,San Francisco,48.35,Customer Visit
+21-06-2016 05:59,27-03-2016 14:21,Personal,Los Angeles,Los Angeles,17.88,Customer Visit
+24-03-2016 23:32,29-02-2016 19:56,Business,San Francisco,Los Angeles,46.9,Meal
+12-12-2016 04:19,10-10-2016 02:45,Personal,San Francisco,New York,12.7,Meal
+10-03-2016 02:50,28-03-2016 18:24,Business,Boston,Chicago,10.39,Meeting
+28-06-2016 20:28,29-11-2016 11:21,Personal,New York,Chicago,37.26,Other
+11-02-2016 05:11,05-02-2016 07:22,Personal,San Francisco,San Francisco,22.14,Errand
+02-11-2016 02:11,29-06-2016 10:54,Business,New York,San Francisco,46.53,Meal
+06-06-2016 23:14,04-03-2016 06:44,Business,New York,San Francisco,14.34,Meeting
+06-07-2016 22:41,05-04-2016 02:49,Personal,San Francisco,New York,31.29,Customer Visit
+05-10-2016 06:45,19-10-2016 13:52,Personal,San Francisco,Chicago,26.85,Other
+16-09-2016 21:15,26-02-2016 09:32,Personal,Boston,Los Angeles,30.49,Other
+15-11-2016 07:03,09-11-2016 04:42,Business,Boston,Chicago,48.3,Errand
+22-10-2016 14:25,19-01-2016 04:46,Business,Boston,New York,37.02,Other
+09-04-2016 01:26,23-11-2016 23:59,Business,Boston,Chicago,17.2,Meeting
+22-03-2016 07:12,29-08-2016 03:57,Personal,Boston,Boston,42.64,Other
+09-04-2016 08:19,15-08-2016 17:57,Personal,New York,Los Angeles,23.65,Meal
+11-05-2016 17:41,29-02-2016 14:43,Business,San Francisco,New York,7.32,Errand
+28-08-2016 08:41,12-04-2016 06:47,Business,Chicago,New York,41.06,Meal
+25-12-2016 17:58,31-03-2016 05:53,Business,Boston,Chicago,18.87,Other
+05-01-2016 18:32,12-06-2016 21:25,Business,Boston,Chicago,3.85,Meal
+27-12-2016 07:38,01-01-2016 12:20,Personal,New York,New York,7.33,Customer Visit
+27-01-2016 01:25,16-04-2016 11:41,Personal,Boston,Boston,28.7,Other
+07-09-2016 19:29,25-03-2016 03:50,Business,Los Angeles,Los Angeles,20.5,Errand
+01-11-2016 13:06,08-01-2016 01:49,Personal,Chicago,Boston,36.6,Errand
+24-09-2016 17:10,03-07-2016 00:00,Personal,San Francisco,New York,38.25,Other
+12-02-2016 01:24,30-04-2016 12:48,Personal,Boston,New York,43.66,Meeting
+01-04-2016 18:13,23-03-2016 11:16,Business,San Francisco,Los Angeles,9.49,Errand
+29-10-2016 05:26,16-05-2016 13:13,Personal,Boston,New York,49.4,Meal
+24-08-2016 00:31,30-10-2016 01:06,Personal,San Francisco,San Francisco,5.44,Customer Visit
+10-10-2016 07:19,27-06-2016 01:59,Personal,San Francisco,Boston,22.54,Other
+20-01-2016 00:35,26-12-2016 03:39,Business,New York,New York,38.42,Other
+20-05-2016 04:04,04-07-2016 13:50,Personal,Los Angeles,New York,33.42,Customer Visit
+02-04-2016 13:49,05-03-2016 09:58,Business,Los Angeles,Los Angeles,7.52,Meal
+25-01-2016 10:12,22-12-2016 19:22,Personal,San Francisco,San Francisco,7.19,Errand
+06-10-2016 03:06,28-03-2016 01:50,Personal,San Francisco,Boston,32.58,Other
+10-01-2016 16:27,01-03-2016 16:07,Personal,Boston,Los Angeles,21.75,Other
+20-05-2016 13:11,23-02-2016 23:38,Business,Boston,New York,29.06,Meal
+17-01-2016 17:43,28-10-2016 05:26,Personal,San Francisco,New York,17.24,Other
+12-11-2016 06:33,18-12-2016 17:51,Business,Los Angeles,Boston,25.82,Meeting
+28-04-2016 12:26,02-05-2016 17:46,Personal,Chicago,San Francisco,16.8,Errand
+29-06-2016 04:22,26-05-2016 11:16,Personal,Boston,Boston,16.36,Customer Visit
+10-03-2016 09:55,01-05-2016 22:26,Business,Los Angeles,San Francisco,16.56,Meal
+01-11-2016 17:14,15-05-2016 03:06,Personal,Boston,Chicago,34.06,Customer Visit
+07-07-2016 11:53,24-04-2016 10:55,Business,San Francisco,San Francisco,32.43,Customer Visit
+11-09-2016 09:59,26-07-2016 16:54,Personal,San Francisco,Boston,1.08,Meal
+04-08-2016 17:36,06-12-2016 16:20,Personal,San Francisco,Chicago,29.91,Other
+23-02-2016 01:22,10-06-2016 10:08,Personal,Los Angeles,Los Angeles,14.2,Customer Visit
+01-05-2016 22:13,19-07-2016 23:59,Personal,Chicago,Chicago,32.73,Meeting
+25-04-2016 14:57,16-10-2016 09:31,Business,Los Angeles,Los Angeles,19.55,Other
+23-07-2016 20:41,16-12-2016 19:26,Business,Chicago,San Francisco,6.95,Meal
+20-05-2016 19:38,01-08-2016 07:09,Business,New York,San Francisco,37.3,Customer Visit
+22-05-2016 15:28,01-11-2016 10:47,Business,Chicago,New York,24.44,Errand
+21-04-2016 18:50,12-07-2016 21:50,Business,New York,Boston,2.26,Meeting
+25-11-2016 22:19,04-02-2016 13:04,Business,Boston,San Francisco,3.81,Customer Visit
+17-03-2016 18:06,10-06-2016 03:21,Personal,San Francisco,Los Angeles,13.53,Customer Visit
+18-07-2016 18:11,19-10-2016 05:04,Business,Los Angeles,Chicago,23.48,Customer Visit
+08-02-2016 09:14,27-09-2016 15:18,Personal,Chicago,New York,24.5,Meeting
+10-06-2016 15:11,30-08-2016 07:21,Business,Los Angeles,Los Angeles,24.61,Other
+07-06-2016 03:25,19-11-2016 07:12,Business,Los Angeles,Los Angeles,47.25,Other
+23-06-2016 03:46,09-01-2016 16:09,Personal,Boston,New York,32.73,Meal
+15-06-2016 09:14,07-07-2016 19:41,Business,Chicago,New York,4.81,Errand
+24-11-2016 17:46,22-09-2016 21:39,Personal,San Francisco,Chicago,35.06,Customer Visit
+05-12-2016 20:22,01-08-2016 00:31,Personal,Chicago,San Francisco,1.03,Other
+15-04-2016 20:47,18-10-2016 01:46,Business,Los Angeles,Chicago,47.14,Meeting
+13-08-2016 09:12,28-01-2016 03:03,Business,Chicago,Boston,33.69,Other
+17-08-2016 03:11,06-02-2016 05:40,Personal,Los Angeles,San Francisco,22.88,Meeting
+20-05-2016 16:28,23-07-2016 16:22,Personal,San Francisco,Los Angeles,49.11,Customer Visit
+12-11-2016 23:01,09-03-2016 16:31,Business,San Francisco,Chicago,34.39,Customer Visit
+28-06-2016 14:27,13-02-2016 08:57,Personal,New York,Los Angeles,21.19,Errand
+18-10-2016 20:56,23-12-2016 01:48,Business,San Francisco,Chicago,14.15,Meal
+12-11-2016 11:00,25-01-2016 03:48,Personal,Boston,Chicago,23.38,Other
+01-11-2016 12:58,23-06-2016 15:09,Personal,Chicago,San Francisco,5.6,Errand
+30-09-2016 23:29,04-09-2016 13:41,Personal,Los Angeles,New York,37.16,Meal
+26-04-2016 12:00,01-01-2016 19:13,Business,San Francisco,New York,16.81,Meal
+24-07-2016 06:09,09-06-2016 22:04,Business,Los Angeles,Boston,26.73,Customer Visit
+30-09-2016 15:11,23-02-2016 04:19,Personal,Los Angeles,San Francisco,18.53,Errand
+28-11-2016 22:32,25-02-2016 08:39,Personal,Chicago,Los Angeles,11.32,Errand
+29-07-2016 11:12,06-09-2016 18:26,Personal,San Francisco,San Francisco,13.63,Other
+19-12-2016 07:10,12-02-2016 14:03,Business,Chicago,Los Angeles,35.76,Other
+30-10-2016 15:54,18-05-2016 03:03,Business,New York,Chicago,8.75,Customer Visit
+13-07-2016 08:35,31-12-2016 04:34,Business,Los Angeles,Los Angeles,17.78,Meeting
+30-07-2016 06:47,22-02-2016 12:48,Personal,Los Angeles,Chicago,8.93,Errand
+17-08-2016 15:05,11-12-2016 10:07,Business,San Francisco,Boston,12.9,Other
+07-04-2016 10:35,24-04-2016 15:03,Business,New York,Boston,27.73,Customer Visit
+24-01-2016 10:42,13-04-2016 14:52,Business,Chicago,Chicago,43.36,Meeting
+07-10-2016 03:51,16-10-2016 12:44,Personal,Los Angeles,Boston,26.65,Other
+24-04-2016 15:16,07-11-2016 03:13,Personal,Los Angeles,New York,27.08,Meal
+09-06-2016 00:37,12-04-2016 19:01,Business,San Francisco,Boston,23.64,Meeting
+02-09-2016 07:39,14-10-2016 11:12,Personal,New York,New York,13.69,Other
+09-01-2016 05:36,01-11-2016 07:02,Business,Los Angeles,San Francisco,28.53,Errand
+14-05-2016 14:47,11-10-2016 12:55,Personal,New York,San Francisco,16.93,Meeting
+02-02-2016 09:09,14-07-2016 16:51,Personal,New York,New York,26.37,Meeting
+05-04-2016 09:49,21-01-2016 13:08,Personal,New York,Chicago,8.09,Other
+04-08-2016 23:41,30-01-2016 23:38,Personal,Chicago,Boston,45.69,Other
+02-11-2016 20:05,14-07-2016 20:21,Business,Boston,Boston,18.77,Errand
+16-12-2016 09:11,18-06-2016 14:22,Business,San Francisco,San Francisco,21.09,Customer Visit
+07-04-2016 17:45,10-03-2016 18:36,Personal,Boston,Chicago,33.24,Errand
+22-01-2016 04:29,03-02-2016 23:56,Business,Los Angeles,New York,20.48,Meeting
+19-10-2016 22:21,13-03-2016 20:17,Personal,New York,Chicago,16.34,Meal
+08-08-2016 10:21,11-05-2016 18:39,Business,New York,New York,43.28,Other
+19-04-2016 13:12,24-01-2016 10:24,Business,New York,Chicago,2.42,Meal
+01-06-2016 01:06,26-02-2016 23:54,Business,New York,Chicago,41.45,Meal
+19-07-2016 09:56,06-07-2016 12:45,Personal,New York,Boston,15.41,Other
+29-11-2016 14:43,15-08-2016 12:45,Personal,Chicago,New York,44.24,Meeting
+10-08-2016 05:25,02-05-2016 23:40,Personal,San Francisco,Boston,47.49,Meeting
+30-09-2016 08:00,27-09-2016 21:31,Business,Chicago,Chicago,31.35,Errand
+20-10-2016 12:56,12-08-2016 17:15,Personal,Boston,San Francisco,31.92,Meeting
+08-04-2016 01:06,16-04-2016 09:26,Business,Los Angeles,Chicago,4.62,Customer Visit
+21-10-2016 03:13,29-02-2016 02:15,Personal,San Francisco,Chicago,36.81,Errand
+15-10-2016 21:55,29-02-2016 11:29,Personal,Boston,Chicago,31.74,Meal
+02-09-2016 00:39,30-01-2016 18:05,Business,Los Angeles,Chicago,13.32,Other
+07-04-2016 23:41,30-10-2016 17:31,Business,Los Angeles,San Francisco,18.44,Other
+12-02-2016 06:30,28-08-2016 19:27,Personal,Chicago,Boston,30.32,Errand
+05-07-2016 15:21,20-04-2016 12:42,Business,Los Angeles,San Francisco,12.45,Errand
+27-05-2016 06:33,26-09-2016 19:30,Personal,Chicago,Chicago,31.16,Other
+21-02-2016 07:18,11-08-2016 12:17,Personal,Chicago,Boston,7.39,Customer Visit
+11-02-2016 06:50,13-09-2016 15:17,Personal,San Francisco,San Francisco,28.29,Customer Visit
+14-06-2016 19:23,16-10-2016 21:54,Personal,San Francisco,Boston,8.4,Other
+28-12-2016 21:55,26-10-2016 18:32,Business,New York,Boston,1.72,Other
+30-06-2016 07:13,28-12-2016 02:29,Personal,Boston,Boston,37.73,Meeting
+13-05-2016 23:29,28-11-2016 01:44,Business,New York,Boston,26.55,Meeting
+15-07-2016 14:04,11-02-2016 00:12,Personal,San Francisco,San Francisco,9.02,Errand
+10-07-2016 20:34,27-11-2016 12:12,Business,Boston,New York,27.49,Errand
+18-04-2016 00:19,13-01-2016 00:43,Business,Los Angeles,Los Angeles,26.8,Errand
+17-08-2016 03:33,29-06-2016 03:56,Personal,Los Angeles,New York,25.83,Other
+01-06-2016 14:33,21-08-2016 05:49,Business,Boston,Chicago,10.56,Customer Visit
+11-11-2016 00:24,15-03-2016 16:38,Business,Los Angeles,San Francisco,39.27,Customer Visit
+21-07-2016 22:18,06-08-2016 15:35,Personal,New York,San Francisco,33.09,Errand
+30-08-2016 03:28,29-12-2016 15:43,Business,San Francisco,Boston,39.07,Other
+23-11-2016 10:13,15-06-2016 00:52,Personal,Boston,Chicago,48.59,Meal
+01-02-2016 16:47,01-06-2016 18:19,Personal,Chicago,New York,42.64,Meal
+03-06-2016 14:45,22-01-2016 01:43,Business,Los Angeles,San Francisco,25.69,Other
+19-03-2016 06:10,22-10-2016 02:28,Business,San Francisco,New York,13.64,Errand
+05-02-2016 11:10,15-11-2016 17:18,Personal,Chicago,Los Angeles,36.34,Other
+27-07-2016 18:23,12-07-2016 15:43,Personal,San Francisco,Chicago,9.08,Customer Visit
+12-10-2016 04:16,09-04-2016 00:37,Personal,San Francisco,Boston,15.46,
+21-12-2016 08:07,30-05-2016 15:02,Personal,Los Angeles,Los Angeles,26.62,
+01-09-2016 22:55,25-10-2016 05:40,Business,Los Angeles,Boston,46.07,
+07-02-2016 03:39,06-04-2016 11:52,Business,Los Angeles,New York,9.48,
+01-12-2016 05:55,19-03-2016 00:31,Personal,San Francisco,Chicago,38.39,
+26-11-2016 20:01,21-12-2016 04:51,Business,Los Angeles,San Francisco,14.99,
+03-01-2016 08:49,11-06-2016 13:32,Personal,San Francisco,Los Angeles,15.29,
+19-07-2016 15:46,11-07-2016 19:02,Business,Chicago,Boston,41.21,
+10-08-2016 15:36,27-06-2016 12:52,Business,Los Angeles,San Francisco,30.1,
+05-07-2016 23:15,02-10-2016 19:31,Personal,Los Angeles,Chicago,33.94,
+10-01-2016 07:29,10-03-2016 05:09,Business,New York,Boston,9.17,
+13-04-2016 22:42,26-08-2016 04:15,Personal,Boston,New York,48.71,
+18-05-2016 03:36,25-03-2016 20:22,Personal,New York,Chicago,12.56,
+20-03-2016 08:16,20-03-2016 05:17,Personal,Chicago,Los Angeles,4.28,
+06-10-2016 01:36,24-04-2016 00:58,Business,Boston,New York,47.95,
+30-12-2016 23:19,10-06-2016 05:24,Business,Los Angeles,Chicago,35.63,
+21-07-2016 14:22,20-03-2016 18:17,Personal,Los Angeles,Los Angeles,37.94,
+12-04-2016 03:59,13-01-2016 09:01,Business,New York,New York,44.9,
+23-05-2016 14:06,02-06-2016 10:37,Business,San Francisco,San Francisco,10.15,
+01-04-2016 08:36,05-06-2016 05:59,Personal,San Francisco,Boston,12.21,
+10-10-2016 18:35,22-06-2016 00:40,Business,Boston,Chicago,35.85,
+26-01-2016 10:09,07-03-2016 22:50,Personal,Boston,San Francisco,45.33,
+02-01-2016 01:50,23-03-2016 11:33,Business,New York,New York,3.49,
+19-04-2016 09:13,25-01-2016 13:41,Personal,Los Angeles,Chicago,4.98,
+04-04-2016 07:51,06-11-2016 19:54,Personal,Boston,San Francisco,14.2,
+29-08-2016 09:16,01-06-2016 05:23,Personal,Chicago,Los Angeles,26.81,
+20-07-2016 20:00,20-08-2016 09:02,Personal,Boston,Boston,24.1,
+13-12-2016 14:12,07-06-2016 01:01,Business,New York,Los Angeles,32.51,
+10-12-2016 20:23,28-08-2016 03:45,Personal,Boston,Los Angeles,29.06,
+30-09-2016 14:32,20-06-2016 18:30,Personal,Los Angeles,New York,6.86,
+17-04-2016 12:47,22-08-2016 16:24,Business,Los Angeles,Chicago,48.65,
+28-08-2016 23:23,16-07-2016 12:42,Business,Chicago,Boston,2.9,
+25-08-2016 00:48,26-01-2016 11:54,Business,Los Angeles,Los Angeles,8.14,
+20-10-2016 01:05,05-06-2016 16:53,Personal,Chicago,Chicago,40.84,
+13-06-2016 16:30,11-07-2016 07:00,Personal,Boston,San Francisco,34.37,
+24-01-2016 23:37,11-03-2016 01:10,Business,New York,New York,25.15,
+11-05-2016 22:04,12-02-2016 18:35,Business,New York,Boston,30.58,
+29-01-2016 06:42,02-10-2016 00:46,Personal,San Francisco,Boston,31.17,
+20-07-2016 10:43,22-12-2016 15:10,Business,Boston,Los Angeles,33.25,
+21-10-2016 15:25,06-04-2016 23:07,Business,Boston,Chicago,31.52,
+15-01-2016 17:32,06-04-2016 20:07,Business,Chicago,New York,41.94,
+23-11-2016 08:19,10-11-2016 15:49,Personal,Chicago,Chicago,26.35,
+30-04-2016 01:08,31-10-2016 22:36,Business,Chicago,Chicago,49.28,
+12-01-2016 12:07,15-04-2016 12:44,Business,San Francisco,Boston,2.12,
+05-07-2016 21:36,07-08-2016 00:21,Business,San Francisco,Chicago,33.24,
+16-06-2016 16:58,24-12-2016 11:49,Business,Chicago,Los Angeles,19.48,
+27-01-2016 02:20,29-09-2016 19:32,Business,San Francisco,Boston,7.16,
+11-09-2016 13:46,15-07-2016 13:11,Business,Chicago,San Francisco,3.51,
+04-01-2016 12:00,04-03-2016 08:12,Personal,Boston,New York,43.46,
+27-09-2016 20:49,08-01-2016 09:52,Business,Los Angeles,San Francisco,38.52,
+04-06-2016 05:18,05-06-2016 22:51,Business,Boston,Boston,47.3,
+23-05-2016 05:47,03-03-2016 01:28,Business,San Francisco,Boston,43.2,
+19-04-2016 15:10,22-10-2016 06:59,Personal,San Francisco,Chicago,16.14,
+12-01-2016 12:55,24-04-2016 14:50,Personal,Boston,New York,21.59,
+22-05-2016 05:34,28-10-2016 11:37,Personal,San Francisco,New York,16.04,
+29-07-2016 00:19,08-11-2016 14:45,Business,San Francisco,San Francisco,12.46,
+09-12-2016 18:44,31-07-2016 13:55,Business,New York,Chicago,37.75,
+07-09-2016 02:39,29-01-2016 14:27,Business,Chicago,Los Angeles,37.75,
+28-12-2016 19:55,06-09-2016 17:56,Business,Chicago,Chicago,49.31,
+11-12-2016 16:25,16-11-2016 06:28,Personal,New York,San Francisco,27.11,
+26-05-2016 12:05,07-08-2016 12:11,Business,New York,Chicago,22.2,
+07-09-2016 06:58,05-03-2016 12:15,Personal,New York,Chicago,27.03,
+09-07-2016 03:48,21-05-2016 03:49,Business,San Francisco,Los Angeles,40.06,
+08-09-2016 00:30,02-05-2016 14:53,Personal,Los Angeles,New York,16.9,
+05-06-2016 18:29,01-08-2016 08:03,Personal,Los Angeles,San Francisco,4.94,
+11-09-2016 08:00,17-11-2016 06:06,Business,New York,Boston,20.01,
+08-10-2016 18:04,16-05-2016 02:04,Business,New York,Boston,9.51,
+17-05-2016 06:02,26-09-2016 15:49,Personal,New York,Los Angeles,10.06,
+11-11-2016 21:03,13-09-2016 09:23,Business,Boston,San Francisco,22.93,
+08-12-2016 20:53,14-09-2016 05:21,Personal,San Francisco,Los Angeles,37.01,
+24-12-2016 18:51,06-10-2016 18:10,Business,Los Angeles,New York,13.2,
+08-01-2016 09:53,01-08-2016 07:05,Personal,Chicago,Los Angeles,32.2,
+27-12-2016 02:15,15-11-2016 15:04,Personal,San Francisco,Los Angeles,30.96,
+24-06-2016 07:57,30-03-2016 15:51,Personal,Los Angeles,San Francisco,45.64,
+12-05-2016 01:58,25-07-2016 19:02,Business,San Francisco,Chicago,6.11,
+04-05-2016 08:03,27-11-2016 06:55,Business,Boston,Chicago,5.17,
+25-05-2016 13:16,07-01-2016 19:43,Personal,Chicago,New York,10.76,
+30-10-2016 21:06,29-07-2016 11:26,Business,New York,New York,46.99,
+22-06-2016 00:55,14-05-2016 18:40,Business,Los Angeles,New York,6.81,
+07-07-2016 23:00,12-12-2016 15:00,Business,San Francisco,Los Angeles,24.25,
+19-05-2016 12:11,05-12-2016 04:29,Personal,Boston,Los Angeles,22.71,
+28-04-2016 06:27,04-01-2016 09:02,Business,Los Angeles,New York,47.18,
+06-04-2016 17:15,06-01-2016 08:00,Business,San Francisco,Los Angeles,37.47,
+06-05-2016 09:24,07-01-2016 00:36,Business,Chicago,Chicago,8.63,
+29-12-2016 15:59,09-09-2016 06:34,Personal,San Francisco,Chicago,4.14,
+16-04-2016 13:50,10-09-2016 08:27,Personal,Chicago,Chicago,16.37,
+28-11-2016 04:25,01-10-2016 02:00,Personal,Chicago,Los Angeles,46.31,
+30-11-2016 09:24,16-03-2016 03:18,Personal,New York,Los Angeles,31.87,
+31-01-2016 17:21,23-09-2016 23:38,Personal,New York,San Francisco,36.04,
+16-11-2016 06:24,24-06-2016 13:11,Business,New York,San Francisco,46.01,
+13-05-2016 22:29,31-08-2016 12:05,Personal,Boston,Boston,36.43,
+07-11-2016 09:07,16-03-2016 05:15,Business,Los Angeles,Los Angeles,24.79,
+21-07-2016 00:28,31-01-2016 20:24,Business,San Francisco,Boston,35.4,
+28-03-2016 01:46,12-01-2016 12:25,Personal,San Francisco,New York,26.99,
+27-04-2016 05:05,25-01-2016 23:47,Business,San Francisco,San Francisco,21.35,
+02-04-2016 15:38,04-06-2016 02:35,Business,Chicago,Boston,4.23,
+05-01-2016 15:57,24-06-2016 16:38,Personal,Los Angeles,Chicago,38.47,
+13-07-2016 12:59,20-12-2016 15:00,Business,Boston,Chicago,47.83,
+03-11-2016 13:11,25-09-2016 03:34,Business,Los Angeles,Chicago,5.09,
+13-06-2016 01:35,22-02-2016 22:31,Personal,Chicago,New York,41.38,
+07-03-2016 07:34,12-09-2016 07:21,Business,New York,Chicago,14.64,
+14-06-2016 06:11,04-04-2016 16:31,Personal,San Francisco,Boston,33.86,
+05-07-2016 13:03,15-09-2016 00:40,Business,New York,Chicago,44.1,
+29-03-2016 19:35,17-08-2016 16:32,Business,New York,Chicago,33.01,
+11-02-2016 15:19,24-05-2016 16:36,Personal,Los Angeles,Boston,46.13,
+08-06-2016 05:30,22-05-2016 13:50,Business,Los Angeles,Chicago,2.65,
+17-06-2016 14:26,16-11-2016 00:43,Business,Chicago,Los Angeles,11.08,
+20-09-2016 16:17,06-05-2016 21:10,Personal,Los Angeles,Los Angeles,20.3,
+13-08-2016 01:29,08-04-2016 18:22,Personal,Los Angeles,Los Angeles,7.21,
+13-03-2016 20:05,01-12-2016 13:47,Personal,Los Angeles,Los Angeles,45.31,
+02-07-2016 09:25,05-01-2016 15:29,Personal,New York,New York,28.15,
+15-09-2016 23:42,07-08-2016 02:34,Business,Boston,New York,44.95,
+06-05-2016 03:36,10-05-2016 14:08,Personal,Chicago,New York,33.19,
+27-03-2016 00:58,20-02-2016 02:30,Business,Boston,Los Angeles,6.4,
+07-08-2016 07:33,21-10-2016 06:11,Personal,San Francisco,Chicago,12.44,
+03-08-2016 23:43,25-03-2016 07:31,Business,New York,Los Angeles,22.07,
+15-04-2016 17:21,11-09-2016 23:36,Business,Chicago,San Francisco,31.34,
+21-05-2016 02:02,10-02-2016 21:51,Personal,New York,Chicago,43.15,
+05-10-2016 10:31,05-01-2016 10:08,Personal,Los Angeles,Boston,22.43,
+28-04-2016 18:51,28-03-2016 14:01,Business,Chicago,New York,38.53,
+07-08-2016 03:59,26-06-2016 05:26,Personal,San Francisco,Boston,6.1,
+14-06-2016 00:28,10-10-2016 21:46,Personal,Los Angeles,New York,31.87,
+05-06-2016 21:13,05-10-2016 20:20,Personal,San Francisco,Chicago,49.31,
+02-02-2016 14:02,23-11-2016 14:28,Personal,New York,Chicago,14.25,
+30-06-2016 02:53,25-08-2016 18:08,Business,Los Angeles,Chicago,45.62,
+22-04-2016 09:12,18-09-2016 21:21,Personal,New York,New York,15.9,
+10-06-2016 13:17,25-12-2016 03:57,Business,Los Angeles,San Francisco,19.84,
+25-04-2016 21:05,16-11-2016 06:38,Business,San Francisco,Chicago,42.31,
+18-10-2016 08:46,17-05-2016 04:27,Personal,Los Angeles,New York,22.74,
+30-04-2016 15:45,27-07-2016 01:50,Business,New York,Los Angeles,21.83,
+23-10-2016 23:21,13-02-2016 07:48,Personal,Los Angeles,Chicago,21.26,
+12-10-2016 05:58,23-10-2016 03:31,Personal,Chicago,Los Angeles,24.21,
+09-11-2016 16:29,25-07-2016 20:52,Business,Los Angeles,Chicago,11.48,
+12-07-2016 20:18,16-06-2016 21:06,Personal,Los Angeles,Chicago,38.31,
+26-10-2016 06:32,25-11-2016 07:39,Business,New York,New York,25.36,
+01-02-2016 20:02,16-06-2016 12:36,Personal,Chicago,New York,34.4,
+20-02-2016 23:37,07-12-2016 22:50,Business,Boston,New York,10.96,
+16-05-2016 21:01,30-07-2016 17:40,Business,New York,Boston,17.64,
+27-11-2016 01:33,08-09-2016 07:57,Business,Boston,Chicago,17.48,
+20-06-2016 07:13,03-01-2016 14:42,Business,Boston,Los Angeles,24.01,
+21-06-2016 03:11,19-10-2016 07:24,Personal,New York,Chicago,7.88,
+17-09-2016 04:57,10-01-2016 15:23,Personal,New York,Boston,13.04,
+16-12-2016 20:16,30-04-2016 05:29,Business,Boston,Chicago,14.88,
+21-01-2016 16:43,02-06-2016 02:24,Business,Los Angeles,Boston,37.51,
+29-02-2016 07:59,09-03-2016 10:43,Personal,Boston,New York,49.77,
+18-02-2016 20:12,11-01-2016 08:00,Personal,Boston,New York,14.09,
+12-09-2016 19:51,17-05-2016 23:56,Personal,Los Angeles,Boston,38.77,
+20-12-2016 20:51,10-02-2016 11:06,Business,Chicago,San Francisco,48.25,
+24-12-2016 01:06,13-02-2016 21:29,Business,Chicago,San Francisco,20.0,
+20-12-2016 09:36,03-04-2016 20:15,Personal,San Francisco,San Francisco,13.72,
+12-04-2016 00:27,11-09-2016 21:18,Business,San Francisco,Los Angeles,12.36,
+05-01-2016 07:29,12-02-2016 04:23,Personal,Boston,Boston,30.51,
+25-11-2016 13:59,26-06-2016 15:10,Business,Boston,New York,38.95,
+16-07-2016 00:23,22-06-2016 07:52,Business,New York,New York,23.77,
+12-07-2016 23:10,07-07-2016 08:17,Personal,Chicago,Chicago,45.36,
+04-06-2016 00:08,16-01-2016 06:32,Business,Boston,Boston,29.05,
+20-06-2016 11:07,01-01-2016 23:08,Business,Los Angeles,Los Angeles,35.85,
+26-07-2016 07:58,20-07-2016 06:45,Personal,Los Angeles,Los Angeles,22.05,
+19-01-2016 01:45,11-07-2016 21:45,Personal,Chicago,Chicago,4.24,
+24-03-2016 19:52,19-03-2016 11:27,Personal,Boston,Boston,2.24,
+30-07-2016 15:25,31-07-2016 12:52,Personal,Los Angeles,Chicago,44.61,
+27-02-2016 05:36,08-09-2016 12:12,Business,San Francisco,Chicago,20.98,
+06-07-2016 22:48,26-07-2016 17:21,Personal,Los Angeles,Chicago,24.79,
+13-11-2016 10:31,08-01-2016 17:03,Business,Los Angeles,New York,8.53,
+20-06-2016 09:07,15-12-2016 19:09,Business,San Francisco,New York,36.14,
+21-08-2016 21:25,15-03-2016 14:46,Personal,New York,Chicago,44.07,
+23-11-2016 07:12,18-02-2016 10:37,Personal,Chicago,Chicago,20.01,
+18-10-2016 16:21,11-02-2016 16:05,Personal,San Francisco,Chicago,48.3,
+24-01-2016 04:50,05-08-2016 09:58,Business,Chicago,Boston,18.7,
+29-12-2016 02:48,04-05-2016 17:56,Business,San Francisco,Chicago,15.3,
+17-05-2016 20:28,03-02-2016 03:26,Business,San Francisco,Chicago,18.36,
+20-09-2016 14:12,25-06-2016 12:02,Personal,San Francisco,Chicago,9.07,
+12-06-2016 15:00,23-11-2016 20:47,Personal,New York,Chicago,10.0,
+21-11-2016 14:49,02-10-2016 18:53,Business,Los Angeles,Chicago,23.51,
+17-11-2016 11:08,27-10-2016 19:41,Personal,San Francisco,New York,5.48,
+04-09-2016 23:17,22-05-2016 03:48,Business,San Francisco,Los Angeles,20.16,
+13-11-2016 13:52,10-03-2016 15:34,Business,Chicago,Boston,29.34,
+28-05-2016 10:08,11-12-2016 03:07,Personal,San Francisco,San Francisco,9.67,
+29-12-2016 19:09,29-02-2016 02:15,Business,New York,Boston,34.6,
+05-02-2016 02:26,26-08-2016 12:33,Personal,New York,Chicago,3.95,
+14-11-2016 12:41,05-12-2016 09:37,Business,Boston,Chicago,3.09,
+26-09-2016 04:18,25-12-2016 14:11,Personal,Boston,Los Angeles,9.6,
+13-06-2016 11:05,09-08-2016 05:10,Business,San Francisco,New York,41.99,
+04-03-2016 18:02,02-09-2016 06:26,Business,New York,Boston,38.74,
+08-02-2016 10:10,01-08-2016 07:55,Business,San Francisco,Chicago,42.84,
+20-11-2016 08:03,03-03-2016 21:49,Personal,Los Angeles,Chicago,36.03,
+14-11-2016 12:34,24-11-2016 06:06,Personal,New York,San Francisco,44.27,
+31-03-2016 13:41,06-10-2016 14:22,Personal,New York,San Francisco,6.51,
+06-11-2016 13:10,31-08-2016 21:47,Business,New York,Boston,19.14,
+10-11-2016 04:41,18-04-2016 23:38,Personal,Chicago,Boston,3.11,
+02-08-2016 10:42,15-07-2016 18:35,Personal,New York,Boston,31.17,
+25-01-2016 22:57,03-07-2016 06:40,Personal,San Francisco,Los Angeles,18.26,
+04-09-2016 02:07,05-04-2016 13:50,Business,Boston,Chicago,40.59,
+03-03-2016 09:22,01-10-2016 23:40,Personal,Los Angeles,New York,49.68,
+18-06-2016 23:40,18-07-2016 17:40,Personal,New York,Boston,39.88,
+10-02-2016 04:30,08-04-2016 16:02,Business,Chicago,Chicago,2.59,
+11-10-2016 16:03,21-04-2016 15:26,Business,Los Angeles,New York,43.22,
+06-01-2016 23:24,01-04-2016 07:49,Personal,San Francisco,Chicago,34.68,
+06-02-2016 13:54,06-03-2016 10:40,Personal,Boston,San Francisco,3.43,
+24-04-2016 15:02,17-07-2016 08:01,Personal,Chicago,New York,43.29,
+06-04-2016 17:24,04-05-2016 20:17,Business,Chicago,Chicago,17.86,
+15-06-2016 07:46,30-03-2016 00:10,Personal,San Francisco,Chicago,43.9,
+26-08-2016 08:48,16-05-2016 20:19,Business,Chicago,New York,30.51,
+29-07-2016 01:17,05-05-2016 15:53,Personal,Boston,Los Angeles,8.49,
+10-01-2016 17:20,24-11-2016 12:04,Business,Chicago,New York,9.08,
+08-03-2016 02:34,20-06-2016 00:24,Personal,Boston,Los Angeles,9.43,
+01-12-2016 08:27,17-08-2016 23:01,Personal,Chicago,Los Angeles,7.23,
+16-07-2016 10:11,22-01-2016 18:35,Business,New York,New York,17.34,
+25-12-2016 14:40,17-01-2016 22:28,Business,Boston,San Francisco,42.21,
+17-01-2016 05:22,14-11-2016 16:54,Personal,Chicago,San Francisco,27.68,
+19-01-2016 13:32,11-05-2016 05:57,Personal,Los Angeles,New York,45.53,
+21-06-2016 12:16,22-03-2016 01:00,Personal,Chicago,San Francisco,48.02,
+05-02-2016 21:25,11-04-2016 12:49,Personal,New York,Chicago,35.22,
+10-02-2016 05:41,03-12-2016 16:15,Business,Los Angeles,San Francisco,5.1,
+17-08-2016 06:58,18-04-2016 03:03,Business,New York,Boston,3.48,
+17-07-2016 03:38,13-04-2016 05:14,Business,San Francisco,Los Angeles,1.06,
+14-11-2016 05:55,06-09-2016 14:43,Personal,San Francisco,Los Angeles,1.67,
+21-12-2016 12:01,09-12-2016 11:39,Personal,San Francisco,Los Angeles,18.18,
+01-03-2016 03:48,22-06-2016 10:04,Personal,Los Angeles,Los Angeles,4.98,
+27-09-2016 17:24,08-09-2016 02:12,Business,Boston,Chicago,32.4,
+31-12-2016 23:11,17-02-2016 15:29,Personal,Chicago,Los Angeles,14.21,
+26-07-2016 21:44,03-01-2016 13:08,Personal,San Francisco,Los Angeles,30.92,
+26-08-2016 12:09,25-02-2016 18:52,Business,Los Angeles,New York,8.73,
+14-04-2016 08:30,12-08-2016 09:09,Personal,Los Angeles,San Francisco,44.62,
+04-02-2016 08:07,17-09-2016 16:57,Personal,Chicago,San Francisco,36.67,
+03-12-2016 13:22,09-12-2016 03:08,Business,Boston,Los Angeles,8.35,
+22-09-2016 05:28,26-01-2016 19:18,Business,Chicago,New York,45.64,
+29-04-2016 17:03,29-05-2016 05:07,Personal,Los Angeles,New York,25.43,
+16-10-2016 19:00,17-04-2016 21:47,Business,Boston,New York,17.51,
+31-01-2016 10:06,22-06-2016 15:42,Personal,Chicago,San Francisco,28.91,
+01-09-2016 12:01,18-07-2016 14:03,Personal,San Francisco,Los Angeles,11.02,
+29-01-2016 11:42,23-04-2016 05:21,Business,New York,Los Angeles,9.73,
+16-06-2016 19:45,02-07-2016 03:53,Personal,Boston,New York,24.75,
+03-01-2016 10:57,01-10-2016 00:33,Personal,New York,San Francisco,24.91,
+22-05-2016 13:20,14-07-2016 10:44,Business,New York,Boston,39.66,
+16-03-2016 07:25,28-09-2016 01:18,Personal,Boston,Los Angeles,3.34,
+30-04-2016 01:13,14-06-2016 18:04,Business,Los Angeles,San Francisco,36.36,
+10-08-2016 13:55,28-03-2016 13:39,Business,New York,Los Angeles,13.18,
+20-07-2016 19:26,07-05-2016 17:16,Personal,San Francisco,Chicago,34.41,
+13-06-2016 11:27,30-09-2016 04:17,Personal,Boston,Boston,38.93,
+11-01-2016 07:05,01-04-2016 01:21,Business,Boston,New York,34.33,
+26-08-2016 05:29,30-05-2016 17:39,Business,New York,New York,10.96,
+17-04-2016 07:34,25-02-2016 06:15,Personal,San Francisco,Boston,44.57,
+06-02-2016 15:42,18-08-2016 20:21,Business,San Francisco,Chicago,42.66,
+03-06-2016 20:34,15-05-2016 16:56,Personal,Chicago,Chicago,38.77,
+16-02-2016 22:33,02-06-2016 11:34,Business,New York,San Francisco,7.01,
+24-05-2016 22:37,21-01-2016 19:27,Business,New York,New York,47.72,
+02-05-2016 07:24,07-10-2016 03:03,Business,Boston,New York,1.37,
+26-07-2016 07:14,03-01-2016 14:38,Personal,Los Angeles,Los Angeles,45.34,
+12-05-2016 20:07,16-10-2016 17:58,Business,Chicago,New York,8.26,
+26-11-2016 08:32,11-08-2016 19:14,Personal,Los Angeles,Los Angeles,17.61,
+19-12-2016 07:16,25-12-2016 08:40,Business,San Francisco,San Francisco,22.12,
+01-11-2016 01:02,07-06-2016 02:11,Business,New York,Boston,33.73,
+18-09-2016 23:32,13-01-2016 13:55,Business,Chicago,Chicago,28.36,
+10-02-2016 11:07,15-08-2016 05:35,Business,Chicago,New York,36.29,
+15-02-2016 01:35,30-09-2016 20:21,Business,Boston,Los Angeles,45.86,
+03-04-2016 18:37,31-03-2016 00:41,Business,Chicago,Los Angeles,13.41,
+04-11-2016 11:04,17-03-2016 21:12,Business,San Francisco,Chicago,13.65,
+21-08-2016 05:22,09-06-2016 23:50,Business,Chicago,New York,22.75,
+31-10-2016 19:07,18-11-2016 06:02,Personal,Los Angeles,Chicago,38.61,
+13-12-2016 22:46,16-04-2016 20:17,Personal,New York,New York,9.25,
+30-09-2016 00:58,02-09-2016 17:02,Business,New York,Boston,27.38,
+23-09-2016 04:24,02-04-2016 17:56,Business,Los Angeles,New York,27.66,
+05-12-2016 01:18,06-03-2016 23:32,Personal,Los Angeles,Boston,2.39,
+12-03-2016 22:35,28-04-2016 09:23,Personal,New York,Chicago,38.05,
+31-05-2016 02:56,24-08-2016 11:45,Personal,New York,Los Angeles,33.33,
+18-06-2016 01:59,09-01-2016 18:43,Business,Boston,Los Angeles,15.33,
+26-06-2016 12:47,09-04-2016 12:27,Personal,New York,Boston,44.89,
+06-04-2016 08:17,22-01-2016 22:37,Personal,Boston,Los Angeles,12.84,
+30-05-2016 13:50,29-08-2016 10:17,Personal,New York,Chicago,46.11,
+31-07-2016 14:22,14-04-2016 01:42,Personal,Boston,San Francisco,27.57,
+24-03-2016 23:16,18-08-2016 22:50,Business,Los Angeles,San Francisco,37.81,
+22-05-2016 22:24,19-07-2016 18:47,Business,Boston,Chicago,33.49,
+27-09-2016 00:39,20-01-2016 14:54,Business,San Francisco,New York,19.43,
+29-02-2016 05:15,03-06-2016 01:11,Business,Boston,New York,38.26,
+10-11-2016 23:38,17-05-2016 00:56,Personal,Boston,New York,24.85,
+21-08-2016 05:45,17-05-2016 14:17,Business,San Francisco,San Francisco,13.24,
+05-03-2016 01:13,09-04-2016 05:19,Personal,Los Angeles,New York,21.94,
+22-12-2016 19:33,25-05-2016 07:34,Personal,Boston,Chicago,4.76,
+09-11-2016 13:28,20-07-2016 12:39,Business,Chicago,Boston,5.97,
+17-03-2016 16:40,28-03-2016 16:18,Personal,San Francisco,New York,15.75,
+29-07-2016 06:55,08-11-2016 11:36,Business,Boston,Boston,8.3,
+01-10-2016 11:51,05-05-2016 05:34,Personal,Los Angeles,New York,12.27,
+18-05-2016 14:22,07-09-2016 07:20,Personal,Boston,Boston,19.18,
+19-05-2016 09:13,03-06-2016 00:51,Personal,Los Angeles,Chicago,43.39,
+21-02-2016 22:02,11-04-2016 10:16,Personal,San Francisco,New York,38.1,
+26-08-2016 06:47,28-06-2016 22:44,Personal,Chicago,Boston,21.61,
+28-12-2016 13:06,15-06-2016 11:00,Personal,Chicago,Chicago,6.44,
+05-03-2016 21:41,04-09-2016 04:38,Personal,New York,Boston,15.28,
+26-09-2016 20:41,09-04-2016 11:30,Personal,Boston,Boston,46.35,
+14-10-2016 05:55,11-09-2016 07:16,Personal,Boston,Chicago,47.2,
+26-06-2016 23:45,05-03-2016 11:02,Personal,Los Angeles,Chicago,1.98,
+19-11-2016 02:33,20-04-2016 10:35,Personal,Los Angeles,Los Angeles,25.99,
+22-07-2016 18:00,13-04-2016 07:34,Business,Chicago,Chicago,30.38,
+15-01-2016 11:49,05-01-2016 07:26,Personal,Chicago,Chicago,28.36,
+12-12-2016 03:00,15-11-2016 20:46,Personal,San Francisco,Boston,14.16,
+13-01-2016 07:35,07-11-2016 19:46,Business,Chicago,Boston,49.35,
+12-08-2016 21:09,03-11-2016 08:12,Personal,New York,Boston,41.02,
+03-05-2016 05:56,05-12-2016 01:48,Business,Boston,San Francisco,31.53,
+13-08-2016 15:12,31-03-2016 18:26,Business,Boston,New York,23.75,
+28-07-2016 02:05,31-01-2016 06:40,Personal,Boston,Los Angeles,20.82,
+22-08-2016 02:56,20-05-2016 09:34,Personal,Boston,Los Angeles,20.41,
+28-11-2016 22:25,23-04-2016 01:22,Business,Boston,San Francisco,11.71,
+29-09-2016 07:38,23-12-2016 23:54,Business,San Francisco,San Francisco,48.47,
+17-01-2016 14:24,21-03-2016 02:07,Personal,Chicago,San Francisco,12.97,
+24-04-2016 17:32,10-07-2016 17:28,Personal,Chicago,Chicago,12.02,
+19-08-2016 12:58,28-01-2016 14:43,Business,Boston,San Francisco,22.39,
+24-01-2016 09:35,06-09-2016 05:27,Business,San Francisco,Boston,46.04,
+20-11-2016 13:04,03-08-2016 05:22,Personal,New York,San Francisco,3.99,
+25-01-2016 22:25,21-04-2016 13:21,Personal,San Francisco,New York,25.31,
+03-06-2016 08:18,24-09-2016 20:42,Business,Chicago,Los Angeles,3.25,
+09-11-2016 16:56,09-11-2016 20:42,Business,New York,New York,16.28,
+10-03-2016 19:30,23-01-2016 21:53,Personal,Los Angeles,San Francisco,10.66,
+25-05-2016 06:45,08-04-2016 06:01,Personal,New York,Boston,11.54,
+07-04-2016 03:32,18-11-2016 13:26,Personal,New York,Boston,12.65,
+26-09-2016 15:39,07-01-2016 04:07,Personal,Chicago,Los Angeles,41.84,
+25-07-2016 08:35,26-07-2016 20:56,Business,San Francisco,Boston,40.96,
+21-06-2016 19:48,18-09-2016 04:55,Business,Boston,New York,39.97,
+09-12-2016 18:18,10-05-2016 05:56,Personal,Los Angeles,Boston,17.13,
+18-06-2016 00:02,04-03-2016 20:49,Personal,Chicago,Chicago,18.14,
+11-08-2016 14:33,13-11-2016 16:42,Business,Boston,Los Angeles,45.52,
+09-03-2016 22:31,24-07-2016 19:09,Business,Chicago,New York,10.24,
+21-04-2016 05:06,11-02-2016 23:42,Business,New York,New York,22.38,
+21-04-2016 21:17,03-08-2016 04:42,Business,Boston,New York,9.19,
+26-02-2016 13:00,26-07-2016 12:11,Personal,Los Angeles,Los Angeles,13.13,
+19-06-2016 17:32,13-11-2016 00:43,Personal,San Francisco,Chicago,21.26,
+17-09-2016 18:48,06-08-2016 14:12,Business,Los Angeles,San Francisco,13.54,
+14-01-2016 06:25,12-04-2016 20:24,Business,Los Angeles,New York,22.69,
+07-11-2016 20:23,20-10-2016 06:12,Business,Boston,Chicago,37.6,
+30-12-2016 09:26,25-11-2016 11:37,Personal,Boston,Chicago,12.79,
+29-04-2016 05:31,04-12-2016 11:51,Personal,Chicago,Los Angeles,45.63,
+22-04-2016 10:28,02-04-2016 06:50,Personal,Chicago,San Francisco,40.06,
+03-06-2016 09:58,20-07-2016 19:23,Personal,San Francisco,San Francisco,16.79,
+30-06-2016 15:45,19-03-2016 19:01,Business,Los Angeles,Los Angeles,43.96,
+23-09-2016 21:43,03-12-2016 14:10,Business,Chicago,Boston,18.91,
+14-02-2016 21:02,03-12-2016 05:34,Business,Chicago,San Francisco,33.12,
+21-12-2016 04:36,22-12-2016 00:53,Personal,Los Angeles,Boston,28.67,
+08-12-2016 16:10,07-06-2016 22:20,Business,New York,Chicago,3.32,
+12-10-2016 00:53,26-10-2016 20:20,Business,Los Angeles,Los Angeles,18.98,
+14-05-2016 18:15,02-09-2016 11:21,Business,New York,Boston,32.84,
+31-03-2016 20:35,15-05-2016 04:41,Personal,New York,Boston,32.75,
+09-11-2016 18:51,06-07-2016 09:39,Business,New York,Boston,46.22,
+26-01-2016 03:52,04-11-2016 10:10,Personal,New York,Los Angeles,33.89,
+26-03-2016 20:29,24-02-2016 03:29,Personal,Boston,Boston,8.73,
+05-01-2016 21:51,30-01-2016 11:30,Personal,Los Angeles,Chicago,32.47,
+18-02-2016 15:03,13-07-2016 14:08,Personal,Chicago,New York,2.04,
+29-09-2016 19:14,21-01-2016 01:32,Business,San Francisco,New York,47.35,
+01-03-2016 12:30,22-10-2016 00:35,Business,Boston,Boston,36.29,
+08-02-2016 10:54,18-07-2016 14:50,Personal,Boston,Los Angeles,30.34,
+17-08-2016 23:56,02-05-2016 22:25,Personal,Chicago,San Francisco,29.37,
+15-11-2016 08:08,20-02-2016 06:54,Personal,New York,New York,18.91,
+06-05-2016 09:41,12-08-2016 18:46,Business,Boston,San Francisco,34.32,
+14-03-2016 07:46,18-02-2016 16:43,Personal,Los Angeles,San Francisco,34.41,
+19-07-2016 06:51,17-02-2016 01:23,Business,Boston,Boston,20.37,
+05-09-2016 18:13,24-05-2016 10:06,Personal,Boston,New York,39.62,
+16-04-2016 05:19,03-11-2016 22:30,Business,New York,Chicago,25.51,
+04-03-2016 14:35,06-01-2016 04:18,Business,San Francisco,Boston,2.6,
+22-04-2016 07:15,06-11-2016 05:09,Business,Boston,Los Angeles,17.47,
+31-03-2016 11:59,15-08-2016 03:47,Business,Boston,Los Angeles,12.35,
+25-07-2016 13:38,21-07-2016 05:28,Personal,New York,Chicago,43.69,
+31-01-2016 17:41,07-02-2016 23:58,Business,Boston,New York,1.89,
+22-03-2016 12:18,12-04-2016 14:30,Business,Los Angeles,New York,17.27,
+22-10-2016 21:47,06-10-2016 06:14,Business,New York,New York,40.72,
+18-03-2016 03:52,02-10-2016 22:51,Personal,Los Angeles,Boston,29.52,
+25-03-2016 17:19,03-05-2016 15:28,Business,New York,Boston,19.69,
+02-05-2016 13:22,08-05-2016 07:55,Business,New York,Boston,33.5,
+13-03-2016 10:05,01-07-2016 12:16,Business,Los Angeles,Chicago,36.38,
+20-04-2016 10:23,18-03-2016 07:57,Business,San Francisco,Chicago,5.64,
+05-03-2016 20:04,12-12-2016 07:17,Personal,Los Angeles,Boston,33.33,
+30-09-2016 16:38,12-05-2016 19:00,Business,San Francisco,Chicago,17.76,
+14-07-2016 13:20,14-05-2016 12:07,Business,Boston,Chicago,48.86,
+14-11-2016 00:15,03-10-2016 12:29,Business,New York,Los Angeles,10.63,
+20-08-2016 03:43,27-05-2016 12:47,Business,Chicago,New York,42.87,
+07-04-2016 06:49,15-10-2016 07:29,Personal,San Francisco,San Francisco,20.16,
+08-08-2016 12:54,30-09-2016 05:36,Business,New York,San Francisco,7.35,
+06-07-2016 18:10,14-06-2016 10:57,Personal,Los Angeles,New York,30.59,
+14-10-2016 04:13,27-09-2016 02:54,Business,Boston,San Francisco,36.18,
+18-11-2016 17:45,09-02-2016 08:36,Personal,New York,New York,9.93,
+23-12-2016 14:38,15-03-2016 09:59,Business,Chicago,San Francisco,10.14,
+27-06-2016 21:20,17-01-2016 16:25,Personal,San Francisco,New York,40.45,
+29-09-2016 12:33,20-01-2016 16:19,Personal,Chicago,Chicago,8.8,
+02-08-2016 14:05,24-04-2016 13:35,Business,Los Angeles,Los Angeles,24.69,
+28-10-2016 13:30,02-10-2016 15:08,Business,Boston,Los Angeles,7.08,
+10-02-2016 16:48,01-03-2016 04:49,Personal,Boston,Boston,1.08,
+19-10-2016 12:04,16-11-2016 07:06,Personal,Boston,Boston,3.05,
+09-08-2016 11:18,17-10-2016 16:13,Business,San Francisco,New York,14.34,
+30-08-2016 20:44,09-06-2016 14:59,Business,New York,Los Angeles,33.94,
+16-11-2016 17:45,29-04-2016 20:53,Business,New York,Boston,39.2,
+06-12-2016 10:24,25-08-2016 00:33,Personal,Los Angeles,Los Angeles,20.35,
+27-07-2016 23:36,14-11-2016 16:39,Personal,Boston,San Francisco,8.26,
+05-12-2016 05:31,16-10-2016 09:42,Personal,San Francisco,San Francisco,37.85,
+21-05-2016 19:59,01-12-2016 10:57,Business,Los Angeles,San Francisco,40.55,
+27-05-2016 06:45,01-02-2016 09:12,Personal,San Francisco,San Francisco,3.27,
+10-02-2016 02:43,05-05-2016 09:01,Business,Chicago,Boston,35.7,
+23-01-2016 03:34,11-05-2016 01:02,Personal,Chicago,Los Angeles,24.72,
+30-06-2016 16:43,09-03-2016 13:37,Personal,Los Angeles,San Francisco,34.24,
+24-12-2016 13:01,15-05-2016 23:42,Personal,Boston,Chicago,4.82,
+13-04-2016 21:59,05-06-2016 15:30,Business,New York,Boston,34.91,
+04-07-2016 21:44,02-07-2016 09:12,Business,New York,Boston,13.05,
+25-09-2016 00:52,11-06-2016 21:55,Business,San Francisco,Boston,17.28,
+08-07-2016 02:19,17-08-2016 16:28,Business,Boston,Chicago,35.04,
+04-03-2016 14:07,14-12-2016 09:57,Personal,Chicago,Boston,27.14,
+18-03-2016 05:26,18-08-2016 21:14,Business,New York,Boston,5.85,
+27-10-2016 14:28,16-05-2016 02:04,Business,San Francisco,New York,9.81,
+02-01-2016 10:04,12-07-2016 00:44,Business,San Francisco,Chicago,21.81,
+23-05-2016 20:50,26-06-2016 20:18,Personal,Boston,Boston,32.53,
+19-02-2016 11:53,08-10-2016 13:20,Business,New York,Los Angeles,33.64,
+06-08-2016 04:45,14-09-2016 01:44,Business,San Francisco,Chicago,40.03,
+28-05-2016 02:32,02-11-2016 11:49,Personal,San Francisco,New York,18.1,
+11-07-2016 08:15,17-01-2016 15:14,Personal,New York,Boston,16.49,
+12-08-2016 23:58,22-10-2016 21:30,Personal,San Francisco,Boston,22.43,
+25-09-2016 22:07,27-03-2016 21:56,Personal,New York,Los Angeles,12.25,
+30-04-2016 20:37,13-07-2016 03:47,Business,San Francisco,New York,4.47,
+16-07-2016 11:35,28-06-2016 12:54,Personal,San Francisco,San Francisco,12.89,
+27-04-2016 00:31,04-11-2016 13:04,Personal,Chicago,New York,13.47,
+28-06-2016 14:46,06-12-2016 20:57,Personal,Chicago,New York,9.85,
+23-08-2016 07:52,12-09-2016 02:46,Business,New York,New York,30.19,
+17-10-2016 18:29,08-02-2016 19:04,Business,Chicago,San Francisco,3.38,
+20-02-2016 19:00,12-08-2016 14:39,Personal,Chicago,San Francisco,28.97,
+25-03-2016 14:35,06-08-2016 04:03,Business,Los Angeles,Boston,10.0,
+14-10-2016 14:10,23-04-2016 17:01,Personal,Los Angeles,Los Angeles,6.47,
+02-05-2016 14:45,28-06-2016 15:55,Personal,San Francisco,San Francisco,43.86,
+05-04-2016 18:41,07-06-2016 04:29,Business,Chicago,Chicago,5.85,
+07-05-2016 07:57,10-11-2016 19:56,Business,New York,San Francisco,26.96,
+07-12-2016 22:52,12-09-2016 03:16,Business,Boston,New York,17.13,
+04-08-2016 14:02,19-05-2016 11:39,Business,Chicago,San Francisco,30.31,
+29-06-2016 18:45,21-08-2016 13:05,Personal,San Francisco,Boston,36.69,
+18-03-2016 08:24,08-02-2016 10:49,Personal,Chicago,Los Angeles,37.81,
+24-01-2016 23:00,10-02-2016 08:31,Business,Boston,Los Angeles,5.36,
+08-10-2016 18:01,29-10-2016 04:59,Business,New York,Boston,36.68,
+21-04-2016 18:23,08-01-2016 07:55,Personal,Los Angeles,Boston,19.29,
+14-04-2016 00:30,25-11-2016 03:40,Personal,Los Angeles,Chicago,33.1,
+23-10-2016 19:58,11-06-2016 18:44,Personal,New York,San Francisco,32.6,
+06-08-2016 01:35,16-03-2016 01:45,Personal,Boston,San Francisco,4.14,
+02-09-2016 10:28,31-05-2016 13:41,Personal,San Francisco,Chicago,49.08,
+08-02-2016 12:52,01-01-2016 08:52,Business,New York,Los Angeles,40.01,
+01-06-2016 20:27,15-06-2016 09:17,Business,Chicago,San Francisco,10.34,
+10-09-2016 15:06,25-02-2016 21:15,Business,San Francisco,San Francisco,9.29,
+18-07-2016 12:35,26-11-2016 01:22,Business,Boston,Chicago,15.06,
+23-05-2016 10:02,07-01-2016 11:31,Business,Boston,Los Angeles,32.13,
+20-11-2016 06:56,07-09-2016 19:00,Business,Chicago,Boston,3.83,
+26-03-2016 03:13,09-08-2016 08:38,Business,Chicago,Boston,34.69,
+23-10-2016 05:11,15-04-2016 04:13,Business,Los Angeles,San Francisco,11.77,
+07-10-2016 03:03,27-12-2016 08:56,Personal,Los Angeles,San Francisco,19.85,
+15-02-2016 00:49,06-06-2016 07:47,Business,Los Angeles,Boston,40.16,
+06-07-2016 14:11,05-09-2016 04:25,Personal,San Francisco,San Francisco,32.13,
+16-05-2016 03:17,07-08-2016 04:29,Personal,San Francisco,San Francisco,30.89,
+30-10-2016 12:23,06-06-2016 13:38,Personal,Boston,San Francisco,49.48,
+15-07-2016 21:12,12-12-2016 08:11,Business,Boston,Boston,34.82,
+24-07-2016 02:23,31-07-2016 16:23,Business,New York,San Francisco,19.49,
+04-12-2016 08:27,05-08-2016 01:33,Personal,Chicago,Chicago,30.02,
+02-06-2016 07:20,02-09-2016 22:28,Personal,Boston,New York,8.34,
+26-03-2016 13:06,22-09-2016 03:40,Business,Los Angeles,Los Angeles,5.85,
+20-07-2016 18:40,17-01-2016 03:49,Business,Boston,Chicago,7.54,
+22-01-2016 05:14,30-05-2016 04:51,Business,Chicago,Chicago,32.79,
+12-10-2016 18:40,05-01-2016 18:09,Personal,Los Angeles,San Francisco,8.52,
+22-10-2016 10:13,09-06-2016 09:44,Personal,Boston,Los Angeles,37.12,
+27-02-2016 23:14,09-07-2016 14:19,Business,Chicago,New York,15.2,
+18-07-2016 22:33,04-03-2016 00:30,Business,New York,Los Angeles,13.47,
+07-03-2016 07:00,03-03-2016 14:47,Personal,New York,San Francisco,40.04,
+09-03-2016 07:11,13-09-2016 07:50,Business,Chicago,San Francisco,35.91,
+05-06-2016 10:55,05-04-2016 07:16,Business,Los Angeles,Los Angeles,48.87,
+26-07-2016 23:49,21-10-2016 10:37,Business,Los Angeles,New York,29.32,
+22-05-2016 14:05,09-10-2016 22:59,Business,Los Angeles,Boston,22.74,
+27-09-2016 18:39,15-07-2016 03:57,Business,Boston,Boston,47.77,
+09-07-2016 16:53,01-11-2016 10:20,Business,San Francisco,Boston,22.07,
+20-01-2016 05:13,09-06-2016 09:16,Personal,Chicago,Los Angeles,10.25,
+30-07-2016 03:52,03-12-2016 23:40,Personal,Los Angeles,Chicago,44.47,
+17-04-2016 22:09,05-09-2016 23:41,Business,Boston,Chicago,47.48,
+29-03-2016 08:48,27-09-2016 22:24,Business,Boston,Chicago,13.69,
+02-06-2016 10:15,20-12-2016 17:25,Business,Chicago,Boston,28.22,
+16-01-2016 01:48,02-12-2016 05:50,Business,New York,San Francisco,6.57,
+03-09-2016 10:31,07-01-2016 04:24,Personal,Chicago,San Francisco,30.59,
+10-02-2016 10:34,19-10-2016 13:08,Personal,San Francisco,Boston,32.62,
+12-12-2016 17:47,26-06-2016 01:51,Personal,San Francisco,San Francisco,4.17,
+06-07-2016 15:47,16-06-2016 12:09,Business,San Francisco,Los Angeles,46.12,
+07-06-2016 11:00,06-05-2016 06:33,Personal,New York,New York,32.15,
+11-06-2016 18:43,17-01-2016 08:09,Business,New York,Chicago,10.44,
+25-02-2016 14:11,24-10-2016 15:07,Business,Chicago,New York,8.05,
+21-11-2016 08:28,27-12-2016 16:55,Business,Boston,New York,11.49,
+25-05-2016 05:22,31-05-2016 07:17,Personal,San Francisco,Boston,6.05,
+17-06-2016 21:38,13-05-2016 11:16,Business,Los Angeles,Los Angeles,23.65,
+22-12-2016 13:23,09-12-2016 23:59,Personal,Boston,Chicago,28.27,
+11-11-2016 04:57,15-10-2016 19:25,Business,Los Angeles,New York,20.53,
+31-03-2016 23:32,20-06-2016 10:17,Business,Boston,Chicago,2.0,
+21-09-2016 14:24,01-04-2016 16:23,Personal,San Francisco,New York,15.9,
+08-06-2016 01:56,13-01-2016 07:52,Business,San Francisco,Los Angeles,30.57,
+23-02-2016 09:31,05-07-2016 10:14,Business,Chicago,Los Angeles,14.42,
+02-04-2016 02:07,07-12-2016 17:32,Business,New York,Boston,32.38,
+02-07-2016 07:16,06-09-2016 14:33,Business,Los Angeles,San Francisco,20.02,
+25-09-2016 19:20,28-03-2016 12:17,Personal,Los Angeles,Los Angeles,31.25,
+20-08-2016 03:49,13-06-2016 02:21,Business,Boston,Boston,27.04,
+04-05-2016 18:06,05-01-2016 19:30,Personal,Chicago,Chicago,37.92,
+03-08-2016 19:00,23-11-2016 19:55,Business,Boston,Boston,19.37,
+05-03-2016 04:36,24-07-2016 13:21,Personal,Chicago,New York,26.66,
+19-11-2016 19:03,28-06-2016 03:56,Business,Boston,Chicago,49.93,
+09-12-2016 10:14,03-04-2016 06:24,Business,New York,San Francisco,20.05,
+03-06-2016 06:43,28-06-2016 22:43,Personal,New York,New York,17.2,
+30-08-2016 12:53,25-05-2016 01:02,Personal,New York,Boston,29.82,
+20-11-2016 23:00,31-12-2016 09:18,Personal,San Francisco,Los Angeles,29.45,
+21-02-2016 06:50,07-09-2016 19:43,Personal,Los Angeles,Chicago,36.73,
+07-12-2016 07:22,31-12-2016 06:57,Personal,Chicago,Chicago,26.34,
+15-09-2016 01:29,02-03-2016 18:56,,,,23.69,
